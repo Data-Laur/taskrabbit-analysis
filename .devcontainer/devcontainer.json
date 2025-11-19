@@ -1,0 +1,29 @@
+
+{
+
+"name": "TaskRabbit Codespace",
+
+"build": {
+
+"dockerfile": "Dockerfile",
+
+"context": ".."
+
+},
+
+"settings": {
+
+"terminal.integrated.shell.linux": "/bin/bash"
+
+},
+
+"extensions": [
+
+"ms-python.python",
+
+"ms-azuretools.vscode-docker"
+
+]
+
+}
+
