@@ -1,29 +1,15 @@
-
 {
-
-"name": "TaskRabbit Codespace",
-
-"build": {
-
-"dockerfile": "Dockerfile",
-
-"context": ".."
-
-},
-
-"settings": {
-
-"terminal.integrated.shell.linux": "/bin/bash"
-
-},
-
-"extensions": [
-
-"ms-python.python",
-
-"ms-azuretools.vscode-docker"
-
-]
-
+  "name": "TaskRabbit Codespace",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter"
+  ],
+  "postCreateCommand": "pip install --upgrade pip && pip install pandas jupyter",
+  "forwardPorts": [8888],
+  "remoteUser": "vscode"
 }
-
