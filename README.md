@@ -13,7 +13,6 @@ Analysis of 4 years of personal TaskRabbit earnings data to optimize gig economy
 ## Data
 - **Time Period:** 2022-2025
 - **Total Transactions:** ~488
-- **Total Earnings:** $65,000+
 - **Markets:** NYC and Boston
 
 ## Technologies
