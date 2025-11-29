@@ -1,0 +1,485 @@
+Date,Category,City,Neighborhood,Client_Name,Total,Earnings,Tax,Trust_Support_Fee,Reimbursements,Tip,Hours
+2022-04-20,Packing & Unpacking,New York City,,York Client: Ben G.,84.00,84.00,0.0,0.0,0.0,0.00,3.0
+2022-04-21,Packing & Unpacking,"Brooklyn, NYC",Brownsville,Andrea C.,56.00,56.00,0.0,0.0,0.0,0.00,2.0
+2022-04-21,Photography,"Brooklyn, NYC",11222,David J.,161.00,140.00,0.0,0.0,0.0,21.00,2.0
+2022-04-22,Organization,New York City,,York Client: Chris K.,125.50,120.00,0.0,0.0,5.5,0.00,4.0
+2022-04-26,Packing & Unpacking,"Brooklyn, NYC",Kensington,Elizabeth E.,115.50,115.50,0.0,0.0,0.0,0.00,3.5
+2022-04-27,Packing & Unpacking,New York City,,York Client: Adar B.,105.00,105.00,0.0,0.0,0.0,0.00,3.75
+2022-05-03,Packing & Unpacking,New York City,,York Client: Jia K.,68.00,68.00,0.0,0.0,0.0,0.00,2.0
+2022-05-03,Packing & Unpacking,New York City,,York Client: Sarah B.,183.60,153.00,0.0,0.0,0.0,30.60,4.5
+2022-05-06,Event Staffing,New York City,,York Client: Brian L.,171.00,171.00,0.0,0.0,0.0,0.00,4.5
+2022-05-11,Writing & Editing,New York City,,York Client: Maureen M.,185.90,169.00,0.0,0.0,0.0,16.90,6.5
+2022-05-16,Photography,New York City,,York Client: Charlette R.,600.00,600.00,0.0,0.0,0.0,0.00,5.0
+2022-05-19,Packing & Unpacking,New York City,Carroll Gardens,Gardens Client: Li T.,108.00,108.00,0.0,0.0,0.0,0.00,3.0
+2022-05-19,Packing & Unpacking,"Brooklyn, NYC",11225,Sake W.,108.00,108.00,0.0,0.0,0.0,0.00,3.0
+2022-05-20,Personal Assistant,New York City,,York Client: Yangfan C.,178.20,162.00,0.0,0.0,0.0,16.20,4.5
+2022-05-20,Photography,New York City,Long Island City,Island City Client: Jared R.,292.50,292.50,0.0,0.0,0.0,0.00,2.25
+2022-05-23,Packing & Unpacking,New York City,,York Client: Alex V.,146.25,117.00,0.0,0.0,0.0,29.25,3.25
+2022-05-24,Packing & Unpacking,"Brooklyn, NYC",Bushwick,Jenny M.,227.70,198.00,0.0,0.0,0.0,29.70,5.5
+2022-05-26,Packing & Unpacking,"Brooklyn, NYC",11215,mary s.,144.00,144.00,0.0,0.0,0.0,0.00,4.0
+2022-05-27,Packing & Unpacking,"Brooklyn, NYC",11211,Anette R.,129.60,108.00,0.0,0.0,0.0,21.60,3.0
+2022-05-27,Packing & Unpacking,New York City,,York Client: Saria S.,124.20,108.00,0.0,0.0,0.0,16.20,3.0
+2022-06-07,Packing & Unpacking,New York City,Brooklyn Heights,Heights Client: MaryAnn C.,148.00,148.00,0.0,0.0,0.0,0.00,4.0
+2022-06-08,Packing & Unpacking,New York City,,York Client: Alex V.,125.00,100.00,0.0,0.0,0.0,25.00,2.5
+2022-06-10,Packing & Unpacking,New York City,,York Client: Joshua P.,116.50,92.50,0.0,0.0,5.5,18.50,2.5
+2022-06-14,Packing & Unpacking,New York City,,York Client: Lindsay B.,124.20,108.00,0.0,0.0,0.0,16.20,3.0
+2022-06-17,Packing & Unpacking,New York City,,York Client: Tim K.,161.50,156.00,0.0,0.0,5.5,0.00,4.0
+2022-06-18,Packing & Unpacking,New York City,,York Client: Mary M.,136.80,114.00,0.0,0.0,0.0,22.80,3.0
+2022-06-19,Packing & Unpacking,New York City,,York Client: Vicky H.,56.00,56.00,0.0,0.0,0.0,0.00,2.0
+2022-06-21,Organization,"Brooklyn, NYC",11226,Devin P.,58.00,58.00,0.0,0.0,0.0,0.00,2.0
+2022-06-21,Packing & Unpacking,"Brooklyn, NYC",11215,Neta G.,169.38,142.50,0.0,0.0,5.5,21.38,3.75
+2022-06-22,Packing & Unpacking,"Brooklyn, NYC",Bushwick,Whitney E.,129.00,123.50,0.0,0.0,5.5,0.00,3.25
+2022-06-23,Packing & Unpacking,"Brooklyn, NYC",11215,Chris E.,233.50,228.00,0.0,0.0,5.5,0.00,6.0
+2022-06-24,Photography,New York City,,York Client: Megan D.,431.25,431.25,0.0,0.0,0.0,0.00,5.75
+2022-06-25,Photography,"Brooklyn, NYC",11226,Devin P.,75.00,75.00,0.0,0.0,0.0,0.00,1.0
+2022-06-26,Packing & Unpacking,New York City,,York Client: Mary M.,193.80,161.50,0.0,0.0,0.0,32.30,4.25
+2022-06-27,Packing & Unpacking,New York City,,York Client: Maria D.,90.00,90.00,0.0,0.0,0.0,0.00,2.0
+2022-06-27,Packing & Unpacking,New York City,Prospect Lefferts Gardens,Lefferts Gardens Client: Sarah M.,126.00,126.00,0.0,0.0,0.0,0.00,3.0
+2022-06-27,Event Staffing,New York City,,York Client: Steve M.,70.00,70.00,0.0,0.0,0.0,0.00,2.0
+2022-06-29,Packing & Unpacking,"Brooklyn, NYC",11238,Steven B.,319.20,266.00,0.0,0.0,0.0,53.20,7.0
+2022-06-29,Packing & Unpacking,New York City,,York Client: Jonathan B.,175.00,175.00,0.0,0.0,0.0,0.00,3.5
+2022-07-02,Photography,New York City,,York Client: Brent L.,112.50,112.50,0.0,0.0,0.0,0.00,1.5
+2022-07-03,Event Staffing,"Brooklyn, NYC",11201,Barak C.,157.50,157.50,0.0,0.0,0.0,0.00,3.75
+2022-07-05,Writing & Editing,New York City,Park Slope,Slope Client: M Shah J.,25.00,25.00,0.0,0.0,0.0,0.00,1.0
+2022-07-05,Photography,"Brooklyn, NYC",11211,Christina R.,300.00,300.00,0.0,0.0,0.0,0.00,4.0
+2022-07-08,Event Staffing,New York City,,York Client: Chana K.,145.50,140.00,0.0,0.0,5.5,0.00,4.0
+2022-07-11,Event Staffing,New York City,,York Client: Carson W.,168.00,168.00,0.0,0.0,0.0,0.00,4.0
+2022-07-11,Photography,New York City,,York Client: Kelly R.,600.00,500.00,0.0,0.0,0.0,100.00,4.0
+2022-07-13,Other,New York City,Brooklyn Navy Yard,Navy Yard Client: Silvio G.,53.50,48.00,0.0,0.0,5.5,0.00,2.0
+2022-07-14,Packing & Unpacking,"Brooklyn, NYC",11225,Joel L.,152.00,152.00,0.0,0.0,0.0,0.00,4.0
+2022-07-16,Packing & Unpacking,New York City,,York Client: Jenny W.,118.75,95.00,0.0,0.0,0.0,23.75,2.5
+2022-07-17,Packing & Unpacking,New York City,,York Client: Daniel R.,114.00,95.00,0.0,0.0,0.0,19.00,2.5
+2022-07-18,Event Staffing,New York City,Flatlands,Alexis G.,231.00,231.00,0.0,0.0,0.0,0.00,5.5
+2022-07-21,Photography,New York City,,York Client: Sara B.,100.00,100.00,0.0,0.0,0.0,0.00,1.0
+2022-07-24,Packing & Unpacking,New York City,,York Client: Natalia H.,78.00,78.00,0.0,0.0,0.0,0.00,2.0
+2022-07-28,Packing & Unpacking,New York City,East Williamsburg,Williamsburg Client: Ann G.,117.00,117.00,0.0,0.0,0.0,0.00,3.0
+2022-07-29,Photography,New York City,,York Client: Evan K.,175.00,175.00,0.0,0.0,0.0,0.00,1.75
+2022-08-06,Packing & Unpacking,New York City,,York Client: Meghan K.,128.00,105.00,0.0,0.0,23.0,0.00,2.5
+2022-08-06,Organization,"Brooklyn, NYC",11231,Henry P.,297.00,297.00,0.0,0.0,0.0,0.00,9.0
+2022-08-06,Packing & Unpacking,"Brooklyn, NYC",Flatbush,Sophie K.,198.90,165.75,0.0,0.0,0.0,33.15,4.25
+2022-08-09,Office Administration,New York City,Carroll Gardens,Gardens Client: Sybil S.,153.00,127.50,0.0,0.0,0.0,25.50,3.75
+2022-08-10,Photography,New York City,,York Client: Diane B.,560.00,560.00,0.0,0.0,0.0,0.00,4.0
+2022-08-10,Event Staffing,"Brooklyn, NYC",Greenpoint,Sapphire S.,120.00,120.00,0.0,0.0,0.0,0.00,3.0
+2022-08-14,Web Design & Development,New York City,,York Client: Samuel J.,54.00,54.00,0.0,0.0,0.0,0.00,2.0
+2022-08-15,Photography,"Brooklyn, NYC",Greenpoint,Kevin M.,470.00,400.00,0.0,0.0,30.0,40.00,4.0
+2022-08-24,Office Administration,New York City,,York Client: Johnny G.,78.20,68.00,0.0,0.0,0.0,10.20,2.0
+2022-08-27,Packing & Unpacking,New York City,,York Client: Erin C.,114.00,114.00,0.0,0.0,0.0,0.00,3.0
+2022-08-27,Packing & Unpacking,New York City,,York Client: marilyn B.,96.00,80.00,0.0,0.0,0.0,16.00,2.0
+2022-08-29,Packing & Unpacking,New York City,,York Client: Carole L.,152.00,152.00,0.0,0.0,0.0,0.00,4.0
+2022-08-29,Packing & Unpacking,"Brooklyn, NYC",11215,Walker M.,319.20,266.00,0.0,0.0,0.0,53.20,7.0
+2022-08-29,Web Design & Development,New York City,,York Client: Samuel J.,45.00,45.00,0.0,0.0,0.0,0.00,1.0
+2022-08-30,Packing & Unpacking,"Brooklyn, NYC",Bushwick,Nichelle W.,157.50,157.50,0.0,0.0,0.0,0.00,3.5
+2022-08-30,Help Moving,"Brooklyn, NYC",11229,X R.,84.00,70.00,0.0,0.0,0.0,14.00,2.0
+2022-08-31,Packing & Unpacking,New York City,,York Client: Anthony S.,198.00,180.00,0.0,0.0,0.0,18.00,4.0
+2022-08-31,Packing & Unpacking,"Brooklyn, NYC",11216,Darya I.,112.50,112.50,0.0,0.0,0.0,0.00,2.5
+2022-09-01,Photography,New York City,,York Client: Umbi A.,75.60,63.00,0.0,0.0,0.0,12.60,1.0
+2022-09-01,Packing & Unpacking,New York City,,York Client: Ashley G.,135.00,112.50,0.0,0.0,0.0,22.50,2.5
+2022-09-02,Packing & Unpacking,New York City,,York Client: Cary S.,114.00,95.00,0.0,0.0,0.0,19.00,2.5
+2022-09-03,Packing & Unpacking,New York City,,York Client: Dave P.,362.25,315.00,0.0,0.0,0.0,47.25,7.0
+2022-09-05,Packing & Unpacking,New York City,Long Island City,Island City Client: RAM K.,123.50,123.50,0.0,0.0,0.0,0.00,3.25
+2022-09-05,Packing & Unpacking,"Brooklyn, NYC",11218,Chloe S.,140.00,140.00,0.0,0.0,0.0,0.00,3.5
+2022-09-06,Packing & Unpacking,New York City,,York Client: Peter T.,146.25,146.25,0.0,0.0,0.0,0.00,3.25
+2022-09-09,Event Staffing,New York City,,York Client: Casta Z.,120.00,120.00,0.0,0.0,0.0,0.00,3.0
+2022-09-10,Packing & Unpacking,"Brooklyn, NYC",11218,Michael S.,90.00,90.00,0.0,0.0,0.0,0.00,2.0
+2022-09-11,Event Staffing,New York City,,York Client: Arianna G.,100.00,80.00,0.0,0.0,0.0,20.00,2.0
+2022-09-11,Photography,New York City,,York Client: Aaron M.,150.00,150.00,0.0,0.0,0.0,0.00,2.0
+2022-09-12,Packing & Unpacking,"Queens, NYC",11101,Wirecutter O.,198.00,180.00,0.0,0.0,0.0,18.00,4.0
+2022-09-13,Photography,New York City,,York Client: Alanna M.,187.50,187.50,0.0,0.0,0.0,0.00,2.5
+2022-09-15,Event Staffing,New York City,,York Client: George Y.,187.50,187.50,0.0,0.0,0.0,0.00,3.75
+2022-09-15,Photography,New York City,Prospect Lefferts Gardens,Lefferts Gardens Client: Lena A.,120.00,120.00,0.0,0.0,0.0,0.00,2.0
+2022-09-17,Event Staffing,New York City,,York Client: Mark C.,160.00,160.00,0.0,0.0,0.0,0.00,4.0
+2022-09-18,Packing & Unpacking,New York City,,York Client: Jacqueline B.,186.88,162.50,0.0,0.0,0.0,24.38,3.25
+2022-09-19,Packing & Unpacking,"Brooklyn, NYC",11215,Rebecca M.,129.25,129.25,0.0,0.0,0.0,0.00,2.75
+2022-09-22,Photography,New York City,,York Client: Mayur C.,160.00,160.00,0.0,0.0,0.0,0.00,2.0
+2022-09-22,Packing & Unpacking,"Brooklyn, NYC",11211,Morgan H.,220.00,200.00,0.0,0.0,0.0,20.00,4.0
+2022-09-22,Packing & Unpacking,New York City,,York Client: Warren M.,156.25,125.00,0.0,0.0,0.0,31.25,2.5
+2022-09-24,Packing & Unpacking,"Brooklyn, NYC",11201,stephanie b.,198.00,165.00,0.0,0.0,0.0,33.00,3.0
+2022-09-25,Packing & Unpacking,New York City,,York Client: Dan P.,125.00,125.00,0.0,0.0,0.0,0.00,2.5
+2022-09-25,Packing & Unpacking,"Brooklyn, NYC",Greenpoint,Kara E.,125.00,125.00,0.0,0.0,0.0,0.00,2.5
+2022-09-25,Event Staffing,New York City,,York Client: Moses L.,150.00,150.00,0.0,0.0,0.0,0.00,3.0
+2022-09-26,Photography,New York City,,York Client: Mohammad A.,180.00,180.00,0.0,0.0,0.0,0.00,2.0
+2022-09-27,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Nancy D.,112.50,112.50,0.0,0.0,0.0,0.00,2.25
+2022-09-28,Packing & Unpacking,New York City,,York Client: Brian T.,50.00,50.00,0.0,0.0,0.0,0.00,1.0
+2022-09-28,Packing & Unpacking,New York City,Carroll Gardens,Gardens Client: Kat D.,250.00,250.00,0.0,0.0,0.0,0.00,5.0
+2022-09-29,Event Staffing,New York City,,York Client: Lauren Y.,200.00,200.00,0.0,0.0,0.0,0.00,4.0
+2022-09-30,Packing & Unpacking,New York City,,York Client: Michael H.,250.00,250.00,0.0,0.0,0.0,0.00,5.0
+2022-10-03,Event Staffing,New York City,,York Client: Carson W.,270.00,270.00,0.0,0.0,0.0,0.00,4.5
+2022-10-03,Organization,New York City,,York Client: Leila R.,50.00,50.00,0.0,0.0,0.0,0.00,1.0
+2022-10-03,Packing & Unpacking,New York City,,York Client: Lisa G.,112.50,112.50,0.0,0.0,0.0,0.00,2.25
+2022-10-05,Photography,New York City,,York Client: Lukas J.,150.00,150.00,0.0,0.0,0.0,0.00,2.0
+2022-10-12,Packing & Unpacking,New York City,,York Client: Stephen Y.,143.00,143.00,0.0,0.0,0.0,0.00,3.25
+2022-10-19,Packing & Unpacking,New York City,,York Client: Hayden R.,144.00,144.00,0.0,0.0,0.0,0.00,3.0
+2022-10-20,Photography,New York City,,Ian M.,144.00,144.00,0.0,0.0,0.0,0.00,2.0
+2022-10-23,Photography,New York City,,York Client: Christine L.,170.20,148.00,0.0,0.0,0.0,22.20,2.0
+2022-10-24,Packing & Unpacking,New York City,,York Client: Mike L.,288.00,288.00,0.0,0.0,0.0,0.00,6.0
+2022-10-25,Event Staffing,New York City,,York Client: Andrew O.,82.50,82.50,0.0,0.0,0.0,0.00,1.5
+2022-10-26,Packing & Unpacking,New York City,,York Client: Mike L.,192.00,192.00,0.0,0.0,0.0,0.00,4.0
+2022-10-27,Event Staffing,New York City,,York Client: Chaquetta G.,233.75,233.75,0.0,0.0,0.0,0.00,4.25
+2022-10-28,Computer Help,"Brooklyn, NYC",11217,Hadley P.,80.00,80.00,0.0,0.0,0.0,0.00,2.0
+2022-10-29,Packing & Unpacking,New York City,,York Client: Paul Q.,60.00,60.00,0.0,0.0,0.0,0.00,1.0
+2022-10-30,Packing & Unpacking,"Brooklyn, NYC",Greenpoint,Tessa R.,48.00,48.00,0.0,0.0,0.0,0.00,1.0
+2022-11-08,Photography,New York City,,York Client: shallini m.,144.00,144.00,0.0,0.0,0.0,0.00,2.0
+2022-11-16,Photography,"Brooklyn, NYC",Downtown Brooklyn,Brooklyn Client: Cole Y.,144.00,144.00,0.0,0.0,0.0,0.00,2.0
+2022-11-27,Computer Help,New York City,,York Client: Olivia E.,220.00,220.00,0.0,0.0,0.0,0.00,5.5
+2022-11-28,Packing & Unpacking,New York City,,York Client: Vera Z.,115.50,105.00,0.0,0.0,0.0,10.50,2.5
+2022-12-01,Event Staffing,"Brooklyn, NYC",Flatbush,Devin P.,86.00,86.00,0.0,0.0,0.0,0.00,2.0
+2022-12-03,Event Staffing,New York City,,York Client: Don H.,110.00,110.00,0.0,0.0,0.0,0.00,2.0
+2022-12-04,Event Staffing,New York City,,York Client: anjali a.,80.00,80.00,0.0,0.0,0.0,0.00,2.0
+2022-12-06,Packing & Unpacking,New York City,Long Island City,Island City Client: Ali L.,319.00,319.00,0.0,0.0,0.0,0.00,7.25
+2022-12-07,Photography,"Brooklyn, NYC",11231,Kerry J.,152.00,152.00,0.0,0.0,0.0,0.00,2.0
+2022-12-08,Event Staffing,New York City,,York Client: Clayton a.,120.00,120.00,0.0,0.0,0.0,0.00,3.0
+2022-12-09,Event Staffing,New York City,,York Client: Alex S.,160.00,160.00,0.0,0.0,0.0,0.00,4.0
+2022-12-09,Packing & Unpacking,New York City,,York Client: Elizabeth K.,42.00,42.00,0.0,0.0,0.0,0.00,1.0
+2022-12-09,Photography,New York City,,York Client: Umbi A.,76.00,76.00,0.0,0.0,0.0,0.00,1.0
+2022-12-09,Event Staffing,New York City,,York Client: Lennart K.,111.00,92.50,0.0,0.0,0.0,18.50,2.5
+2022-12-10,Photography,New York City,,York Client: Megan M.,150.00,150.00,0.0,0.0,0.0,0.00,2.0
+2022-12-10,Photography,New York City,,York Client: Cristen L.,187.50,150.00,0.0,0.0,0.0,37.50,2.0
+2022-12-11,Event Staffing,New York City,,York Client: Reade R.,75.25,75.25,0.0,0.0,0.0,0.00,1.75
+2022-12-11,Packing & Unpacking,New York City,Park Slope,Slope Client: Richard B.,144.90,126.00,0.0,0.0,0.0,18.90,3.0
+2022-12-12,Event Staffing,New York City,Park Slope,Slope Client: Maxine C.,297.00,270.00,0.0,0.0,0.0,27.00,6.75
+2022-12-13,Computer Help,"Brooklyn, NYC",11215,Allison T.,76.00,76.00,0.0,0.0,0.0,0.00,2.0
+2022-12-15,Packing & Unpacking,"Brooklyn, NYC",11215,Richard B.,213.75,213.75,0.0,0.0,0.0,0.00,4.75
+2022-12-15,Packing & Unpacking,"Brooklyn, NYC",11215,Richard B.,162.00,135.00,0.0,0.0,0.0,27.00,3.0
+2022-12-17,Event Staffing,New York City,Fort Greene,Greene Client: Catesby P.,175.75,175.75,0.0,0.0,0.0,0.00,4.75
+2022-12-21,Packing & Unpacking,New York City,Windsor Terrace,Terrace Client: Oriel P.,225.00,225.00,0.0,0.0,0.0,0.00,5.0
+2022-12-27,Photography,New York City,,York Client: Lotta J.,150.00,150.00,0.0,0.0,0.0,0.00,2.0
+2023-01-10,Photography,New York City,,York Client: Dave O.,393.75,393.75,0.0,0.0,0.0,0.00,5.25
+2023-01-11,Computer Help,New York City,Fort Greene,Greene Client: Mary P.,102.00,102.00,0.0,0.0,0.0,0.00,3.0
+2023-01-12,Event Staffing,New York City,,York Client: Alyssa Z.,148.50,148.50,0.0,0.0,0.0,0.00,4.5
+2023-01-13,Packing & Unpacking,"Brooklyn, NYC",11216,Fizz M.,152.00,152.00,0.0,0.0,0.0,0.00,4.0
+2023-01-16,Packing & Unpacking,New York City,Long Island City,Island City Client: Terry C.,104.50,104.50,0.0,0.0,0.0,0.00,2.75
+2023-01-17,Personal Assistant,"Brooklyn, NYC",Flatbush,Garry N.,150.81,125.00,0.0,0.0,0.0,25.81,5.0
+2023-01-18,Personal Assistant,New York City,Brooklyn Navy Yard,Navy Yard Client: Gil T.,87.50,87.50,0.0,0.0,0.0,0.00,3.5
+2023-01-18,Computer Help,New York City,,York Client: Robin K.,59.50,59.50,0.0,0.0,0.0,0.00,1.75
+2023-01-20,Computer Help,New York City,,York Client: Jocelyn G.,145.51,126.00,0.0,0.0,0.0,19.51,3.5
+2023-01-20,Computer Help,"Brooklyn, NYC",11201,Stacey D.,78.53,68.00,0.0,0.0,0.0,10.53,2.0
+2023-01-20,Event Staffing,New York City,,York Client: Lesly B.,149.55,129.50,0.0,0.0,0.0,20.05,3.5
+2023-01-21,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Jessica W.,248.30,215.00,0.0,0.0,0.0,33.30,5.0
+2023-01-22,Event Staffing,"Queens, NYC",11101,Eliana Z.,162.00,162.00,0.0,0.0,0.0,0.00,4.5
+2023-01-24,Computer Help,New York City,,York Client: Melissa G.,110.33,100.00,0.0,0.0,0.0,10.33,2.5
+2023-01-25,Packing & Unpacking,New York City,,York Client: Taylor W.,88.00,88.00,0.0,0.0,0.0,0.00,2.0
+2023-01-25,Packing & Unpacking,New York City,,York Client: Judy Y.,143.00,143.00,0.0,0.0,0.0,0.00,3.25
+2023-01-29,Packing & Unpacking,New York City,Clinton Hill,Hill Client: George N.,176.00,176.00,0.0,0.0,0.0,0.00,4.0
+2023-01-29,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Cinthya S.,88.00,88.00,0.0,0.0,0.0,0.00,2.0
+2023-01-30,Packing & Unpacking,"Brooklyn, NYC",11249,Morgan S.,88.00,88.00,0.0,0.0,0.0,0.00,2.0
+2023-01-30,Computer Help,"Brooklyn, NYC",Williamsburg,Sean R.,80.00,80.00,0.0,0.0,0.0,0.00,2.0
+2023-01-31,Packing & Unpacking,"Brooklyn, NYC",11249,Sanjay C.,25.00,25.00,0.0,0.0,0.0,0.00,1.0
+2023-02-01,Computer Help,New York City,Crown Heights,Heights Client: Amanda A.,86.00,86.00,0.0,0.0,0.0,0.00,2.0
+2023-02-01,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Sunny v.,225.61,187.00,0.0,0.0,0.0,38.61,4.25
+2023-02-03,Packing & Unpacking,"Manhattan, NYC",10013,Vera R.,230.00,230.00,0.0,0.0,0.0,0.00,5.0
+2023-02-05,Packing & Unpacking,New York City,,York Client: Sachin B.,265.42,220.00,0.0,0.0,0.0,45.42,5.0
+2023-02-07,Packing & Unpacking,"Manhattan, NYC",10002,Virginia R.,92.00,92.00,0.0,0.0,0.0,0.00,2.0
+2023-02-08,Packing & Unpacking,"Brooklyn, NYC",11205,Laurel H.,161.00,161.00,0.0,0.0,0.0,0.00,3.5
+2023-02-12,Photography,New York City,,York Client: Joseph F.,164.00,164.00,0.0,0.0,0.0,0.00,2.0
+2023-02-15,Packing & Unpacking,"Staten Island, NYC",10281,Robert S.,275.00,275.00,0.0,0.0,0.0,0.00,5.5
+2023-02-16,Packing & Unpacking,New York City,,York Client: Shane S.,120.00,120.00,0.0,0.0,0.0,0.00,2.5
+2023-02-18,Packing & Unpacking,New York City,,York Client: Andrea R.,169.77,147.00,0.0,0.0,0.0,22.77,3.5
+2023-02-20,Packing & Unpacking,New York City,,York Client: Stella S.,96.00,96.00,0.0,0.0,0.0,0.00,2.0
+2023-02-20,Packing & Unpacking,"Brooklyn, NYC",Downtown Brooklyn,Brooklyn Client: Mandy W.,92.00,92.00,0.0,0.0,0.0,0.00,2.0
+2023-02-21,Packing & Unpacking,"Brooklyn, NYC",11211,Jana A.,220.00,220.00,0.0,0.0,0.0,0.00,4.0
+2023-02-22,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Sean M.,199.07,165.00,0.0,0.0,0.0,34.07,3.0
+2023-02-22,Web Design & Development,New York City,,York Client: Caitlin J.,96.52,80.00,0.0,0.0,0.0,16.52,2.0
+2023-02-25,Packing & Unpacking,"Brooklyn, NYC",11201,Ben G.,220.00,220.00,0.0,0.0,0.0,0.00,4.0
+2023-02-27,Packing & Unpacking,New York City,,York Client: Chloe A.,130.00,130.00,0.0,0.0,0.0,0.00,2.0
+2023-03-08,Photography,New York City,,York Client: Jerry B.,150.00,150.00,0.0,0.0,0.0,0.00,2.0
+2023-03-09,Photography,"Brooklyn, NYC",Downtown Brooklyn,Brooklyn Client: Brent S.,150.00,150.00,0.0,0.0,0.0,0.00,2.0
+2023-03-26,Packing & Unpacking,"Manhattan, NYC",10023,Molly G.,138.59,120.00,0.0,0.0,0.0,18.59,2.5
+2023-03-28,Packing & Unpacking,New York City,,York Client: Emily W.,241.55,192.00,0.0,0.0,0.0,49.55,4.0
+2023-03-30,Packing & Unpacking,"Queens, NYC",11101,Megan M.,312.00,312.00,0.0,0.0,0.0,0.00,6.5
+2023-04-02,Packing & Unpacking,"Manhattan, NYC",10019,PRANAY R.,144.00,144.00,0.0,0.0,0.0,0.00,3.0
+2023-04-06,Packing & Unpacking,New York City,,York Client: Beth G.,128.44,110.00,0.0,0.0,1.4,17.04,2.0
+2023-04-08,Packing & Unpacking,New York City,,York Client: Mani G.,38.00,38.00,0.0,0.0,0.0,0.00,1.0
+2023-04-09,Packing & Unpacking,New York City,,York Client: Kimberly N.,96.75,96.75,0.0,0.0,0.0,0.00,2.25
+2023-04-09,Packing & Unpacking,New York City,,York Client: V P.,129.00,129.00,0.0,0.0,0.0,0.00,3.0
+2023-04-10,Packing & Unpacking,"Manhattan, NYC",10075,Luisa B.,86.00,86.00,0.0,0.0,0.0,0.00,2.0
+2023-04-12,Packing & Unpacking,New York City,,York Client: Fred A.,95.00,95.00,0.0,0.0,0.0,0.00,2.5
+2023-04-15,Packing & Unpacking,New York City,,York Client: Evan W.,64.50,64.50,0.0,0.0,0.0,0.00,1.5
+2023-04-19,Packing & Unpacking,"Brooklyn, NYC",11211,Sam B.,78.00,78.00,0.0,0.0,0.0,0.00,2.0
+2023-04-20,Packing & Unpacking,New York City,,York Client: Steven R.,96.75,96.75,0.0,0.0,0.0,0.00,2.25
+2023-04-23,Packing & Unpacking,"Manhattan, NYC",10021,Nina M.,546.29,467.50,0.0,0.0,6.39,72.40,8.5
+2023-04-24,Packing & Unpacking,"Queens, NYC",11101,Wirecutter O.,146.25,146.25,0.0,0.0,0.0,0.00,3.75
+2023-04-25,Packing & Unpacking,"Manhattan, NYC",10016,Jody G.,86.00,86.00,0.0,0.0,0.0,0.00,2.0
+2023-04-26,Photography,"Manhattan, NYC",10011,Anthony C.,75.00,75.00,0.0,0.0,0.0,0.00,1.0
+2023-04-27,Packing & Unpacking,"Brooklyn, NYC",11226,Natalie B.,172.00,172.00,0.0,0.0,0.0,0.00,4.0
+2023-05-01,Packing & Unpacking,"Brooklyn, NYC",11217,Annie L.,180.00,180.00,0.0,0.0,0.0,0.00,4.0
+2023-05-02,Packing & Unpacking,New York City,Park Slope,Slope Client: Annie L.,45.00,45.00,0.0,0.0,0.0,0.00,1.0
+2023-05-02,Packing & Unpacking,New York City,,York Client: Cyrus H.,142.32,129.00,0.0,0.0,0.0,13.32,3.0
+2023-05-05,Packing & Unpacking,"Brooklyn, NYC",11201,Jonathan R.,122.16,101.25,0.0,0.0,0.0,20.91,2.25
+2023-05-06,Packing & Unpacking,"Brooklyn, NYC",11217,Catherine K.,137.50,137.50,0.0,0.0,0.0,0.00,2.5
+2023-05-06,Packing & Unpacking,"Brooklyn, NYC",11231,Hara P.,129.93,112.50,0.0,0.0,0.0,17.43,2.25
+2023-05-13,Photography,New York City,,Taylor H.,77.00,77.00,0.0,0.0,0.0,0.00,1.0
+2023-05-14,Packing & Unpacking,New York City,,York Client: Skyler T.,162.50,162.50,0.0,0.0,0.0,0.00,2.5
+2023-05-15,Packing & Unpacking,"Brooklyn, NYC",11243,Jorge R.,262.73,227.50,0.0,0.0,0.0,35.23,3.5
+2023-05-16,Photography,"Brooklyn, NYC",11249,Kyle R.,180.00,180.00,0.0,0.0,0.0,0.00,2.0
+2023-05-18,Photography,New York City,,York Client: Alyssa G.,77.00,77.00,0.0,0.0,0.0,0.00,1.0
+2023-05-24,Photography,New York City,,York Client: margaret C.,82.00,82.00,0.0,0.0,0.0,0.00,1.0
+2023-06-07,Photography,"Manhattan, NYC",10013,Aidan L.,90.00,90.00,0.0,0.0,0.0,0.00,1.0
+2023-06-08,Computer Help,New York City,,York Client: josephine c.,200.00,200.00,0.0,0.0,0.0,0.00,4.0
+2023-06-16,Computer Help,New York City,Park Slope,Slope Client: Allison T.,100.00,100.00,0.0,0.0,0.0,0.00,2.0
+2023-06-19,Photography,New York City,,Nicole A.,82.00,82.00,0.0,0.0,0.0,0.00,1.0
+2023-06-19,Packing & Unpacking,New York City,,York Client: Vig A.,55.17,50.00,0.0,0.0,0.0,5.17,1.0
+2023-06-19,Computer Help,New York City,Park Slope,Slope Client: Allison T.,60.00,60.00,0.0,0.0,0.0,0.00,1.0
+2023-06-21,Photography,"Queens, NYC",11101,Sean G.,90.00,90.00,0.0,0.0,0.0,0.00,1.0
+2023-06-23,Photography,"Brooklyn, NYC",11215,Jacqueline C.,90.00,90.00,0.0,0.0,0.0,0.00,1.0
+2023-06-23,Computer Help,New York City,Park Slope,Slope Client: Allison T.,60.00,60.00,0.0,0.0,0.0,0.00,1.0
+2023-06-26,Photography,New York City,,SIlvia R.,90.00,90.00,0.0,0.0,0.0,0.00,1.0
+2023-06-27,Packing & Unpacking,"Brooklyn, NYC",11211,Stephen S.,65.00,65.00,0.0,0.0,0.0,0.00,1.0
+2023-06-28,Photography,"Brooklyn, NYC",11201,Guy R.,250.00,250.00,0.0,0.0,0.0,0.00,2.0
+2023-07-14,Photography,"Manhattan, NYC",10017,Eliahu M.,90.00,90.00,0.0,0.0,0.0,0.00,1.0
+2023-07-18,Photography,"Brooklyn, NYC",11217,Brad H.,125.00,125.00,0.0,0.0,0.0,0.00,1.0
+2023-07-20,Photography,New York City,,York Client: Neville I.,90.00,90.00,0.0,0.0,0.0,0.00,1.0
+2023-07-26,Packing & Unpacking,"Brooklyn, NYC",11222,Parsa K.,96.00,96.00,0.0,0.0,0.0,0.00,2.0
+2023-07-27,Photography,New York City,,York Client: David A.,180.00,180.00,0.0,0.0,0.0,0.00,2.0
+2023-07-29,Packing & Unpacking,New York City,,York Client: Hannah B.,180.00,180.00,0.0,0.0,0.0,0.00,3.0
+2023-07-30,Photography,"Manhattan, NYC",10065,Dan H.,100.00,100.00,0.0,0.0,0.0,0.00,1.0
+2023-08-05,Packing & Unpacking,"Manhattan, NYC",10065,Kevin R.,288.00,288.00,0.0,0.0,0.0,0.00,6.0
+2023-08-09,Photography,"Manhattan, NYC",10018,Allan B.,100.00,100.00,0.0,0.0,0.0,0.00,1.0
+2023-09-28,Event Staffing,"Cambridge, MA",,Shanti F.,168.00,168.00,0.0,0.0,0.0,0.00,3.5
+2023-09-29,Photography,"Cambridge, MA",,Jia Jie T.,135.00,135.00,0.0,0.0,0.0,0.00,1.5
+2023-10-03,Packing & Unpacking,"Cambridge, MA",,Rashard G.,245.00,245.00,0.0,0.0,0.0,0.00,3.5
+2023-11-08,Packing & Unpacking,New York City,,York Client: Paul Q.,258.50,258.50,0.0,0.0,0.0,0.00,5.5
+2023-11-13,Event Staffing,New York City,Queens,Shivani T.,117.00,117.00,0.0,0.0,0.0,0.00,3.0
+2023-11-20,Computer Help,"Boston, MA",,Trevor S.,350.00,350.00,0.0,0.0,0.0,0.00,7.0
+2023-11-21,Computer Help,"Boston, MA",,Trevor S.,427.00,427.00,0.0,0.0,0.0,0.00,7.0
+2023-11-25,Packing & Unpacking,"Boston, MA",,Rose G.,264.00,264.00,0.0,0.0,0.0,0.00,5.5
+2023-11-26,Packing & Unpacking,"Boston, MA",,Rose G.,408.00,408.00,0.0,0.0,0.0,0.00,8.5
+2023-11-30,Packing & Unpacking,"Boston, MA",,Alexandra C.,320.00,320.00,0.0,0.0,0.0,0.00,5.0
+2023-12-10,Packing & Unpacking,"Cambridge, MA",,Abram O.,174.00,174.00,0.0,0.0,0.0,0.00,3.0
+2023-12-12,Packing & Unpacking,"Brookline, MA",,Laura S.,223.96,203.00,0.0,0.0,0.0,20.96,3.5
+2023-12-13,Packing & Unpacking,"Boston, MA",,Julia R.,240.00,240.00,0.0,0.0,0.0,0.00,4.0
+2023-12-15,Event Staffing,"Boston, MA",,Caitlin H.,336.00,336.00,0.0,0.0,0.0,0.00,7.0
+2023-12-16,Photography,"Boston, MA",,Alex S.,115.84,105.00,0.0,0.0,0.0,10.84,1.0
+2023-12-16,Photography,"Boston, MA",,xiang y.,100.00,100.00,0.0,0.0,0.0,0.00,1.0
+2023-12-19,Packing & Unpacking,"Brookline, MA",,Julia S.,333.50,333.50,0.0,0.0,0.0,0.00,5.75
+2023-12-19,Computer Help,New York City,Leather District,District Client: Trevor S.,529.56,480.00,0.0,0.0,0.0,49.56,8.0
+2023-12-21,Packing & Unpacking,"Brookline, MA",,Tomer L.,290.00,290.00,0.0,0.0,0.0,0.00,5.0
+2023-12-23,Packing & Unpacking,"Boston, MA",,Hilary S.,292.50,292.50,0.0,0.0,0.0,0.00,4.5
+2024-01-03,Photography,"Boston, MA",,Daniel L.,120.00,120.00,0.0,0.0,0.0,0.00,1.0
+2024-01-04,Photography,"Boston, MA",,Matthew M.,120.00,120.00,0.0,0.0,0.0,0.00,1.0
+2024-01-08,Packing & Unpacking,"Boston, MA",,Daniel S.,120.00,120.00,0.0,0.0,0.0,0.00,2.0
+2024-01-08,Packing & Unpacking,"Boston, MA",,Claudia B.,120.00,120.00,0.0,0.0,0.0,0.00,2.0
+2024-02-25,Event Staffing,"Boston, MA",,Leslie E.,246.12,204.00,0.0,0.0,0.0,42.12,4.25
+2024-02-29,Photography,"Boston, MA",,Andrew L.,105.00,105.00,0.0,0.0,0.0,0.00,1.0
+2024-03-01,Photography,"Brookline, MA",,Martha Z.,105.00,105.00,0.0,0.0,0.0,0.00,1.0
+2024-03-10,Organization,New York City,Andover,Alice D.,154.46,140.00,0.0,0.0,0.0,14.46,2.0
+2024-03-16,Packing & Unpacking,New York City,Wilmington,Aaron B.,420.00,420.00,0.0,0.0,0.0,0.00,6.0
+2024-03-20,Photography,New York City,North Andover,Andover Client: Thomas k.,260.00,260.00,0.0,0.0,0.0,0.00,2.0
+2024-03-26,Photography,New York City,Andover,Elizabeth G.,230.00,230.00,0.0,0.0,0.0,0.00,2.0
+2024-04-07,Packing & Unpacking,"Malden, MA",,Jawadd H.,228.66,198.00,0.0,0.0,0.0,30.66,3.0
+2024-04-16,Photography,"Boston, MA",,Brian R.,190.00,190.00,0.0,0.0,0.0,0.00,2.0
+2024-04-29,Event Staffing,"Cambridge, MA",,Shawna E.,200.00,200.00,0.0,0.0,0.0,0.00,4.0
+2024-04-29,Photography,"Boston, MA",,Anna D.,240.00,240.00,0.0,0.0,0.0,0.00,2.0
+2024-05-07,Computer Help,"Watertown, MA",Watertown,Andrew B.,121.36,110.00,0.0,0.0,0.0,11.36,2.0
+2024-05-09,Packing & Unpacking,"Cambridge, MA",,sankaran g.,150.00,150.00,0.0,0.0,0.0,0.00,3.0
+2024-05-15,Photography,"Cambridge, MA",,Alex T.,190.00,190.00,0.0,0.0,0.0,0.00,2.0
+2024-05-15,Packing & Unpacking,"Cambridge, MA",,Claire E.,100.00,100.00,0.0,0.0,0.0,0.00,2.0
+2024-05-16,Photography,"Boston, MA",,Veonica E.,190.00,190.00,0.0,0.0,0.0,0.00,2.0
+2024-05-20,Packing & Unpacking,"Somerville, MA",,Cornelia S.,402.50,402.50,0.0,0.0,0.0,0.00,5.75
+2024-05-21,Packing & Unpacking,New York City,Teele Square,Square Client: Cornelia S.,297.50,297.50,0.0,0.0,0.0,0.00,4.25
+2024-05-28,Organization,"Cambridge, MA",,Maura R.,274.47,227.50,0.0,0.0,0.0,46.97,3.25
+2024-05-29,Photography,"Boston, MA",,Dalal A.,260.00,260.00,0.0,0.0,0.0,0.00,2.0
+2024-05-30,Photography,"Watertown, MA",Watertown,Barrie B.,260.00,260.00,0.0,0.0,0.0,0.00,2.0
+2024-05-31,Organization,"Brookline, MA",,Electra W.,140.00,140.00,0.0,0.0,0.0,0.00,2.0
+2024-05-31,Organization,"Cambridge, MA",,Maura R.,140.00,140.00,0.0,0.0,0.0,0.00,2.0
+2024-06-01,Event Staffing,"Brookline, MA",,Priyanka B.,227.50,227.50,0.0,0.0,0.0,0.00,3.5
+2024-06-01,Packing & Unpacking,"Cambridge, MA",,Kazan K.,168.75,168.75,0.0,0.0,0.0,0.00,2.25
+2024-06-02,Event Staffing,"Cambridge, MA",,Scott S.,327.10,260.00,0.0,0.0,0.0,67.10,4.0
+2024-06-11,Packing & Unpacking,"Cambridge, MA",,Jean F.,300.00,300.00,0.0,0.0,0.0,0.00,4.0
+2024-06-13,Packing & Unpacking,"Cambridge, MA",,Jean F.,468.75,468.75,0.0,0.0,0.0,0.00,6.25
+2024-06-15,Computer Help,"Cambridge, MA",,Noga C.,192.50,192.50,0.0,0.0,0.0,0.00,2.75
+2024-06-15,Packing & Unpacking,New York City,Arlington,Lucy L.,243.75,243.75,0.0,0.0,0.0,0.00,3.25
+2024-06-17,Packing & Unpacking,"Cambridge, MA",,Trey S.,243.75,243.75,0.0,0.0,0.0,0.00,3.25
+2024-07-06,Packing & Unpacking,"Boston, MA",,Cassandra A.,174.94,145.00,0.0,0.0,0.0,29.94,2.5
+2024-07-08,Packing & Unpacking,"Newton, MA",,Sheraz S.,291.88,232.00,0.0,0.0,0.0,59.88,4.0
+2024-07-09,Organization,"Cambridge, MA",,Shashi N.,211.25,211.25,0.0,0.0,0.0,0.00,3.25
+2024-07-14,Organization,New York City,Winchester,Gabriela M.,260.00,260.00,0.0,0.0,0.0,0.00,4.0
+2024-07-17,Packing & Unpacking,"Brookline, MA",,Jonathan t.,225.20,195.00,0.0,0.0,0.0,30.20,3.0
+2024-07-24,Photography,"Cambridge, MA",,Noura M.,250.00,250.00,0.0,0.0,0.0,0.00,2.0
+2024-07-29,Packing & Unpacking,"Somerville, MA",,Pranjal V.,325.00,325.00,0.0,0.0,0.0,0.00,5.0
+2024-07-31,Packing & Unpacking,"Brookline, MA",,Philip B.,327.10,260.00,0.0,0.0,0.0,67.10,4.0
+2024-08-08,Packing & Unpacking,"Boston, MA",,Carlos M.,196.06,162.50,0.0,0.0,0.0,33.56,3.25
+2024-08-09,Photography,"Boston, MA",,Laundry h.,332.50,332.50,0.0,0.0,0.0,0.00,3.5
+2024-08-10,Packing & Unpacking,"Brookline, MA",,Hilary P.,150.97,120.00,0.0,0.0,0.0,30.97,2.0
+2024-08-11,Packing & Unpacking,"Boston, MA",,Jack D.,93.00,93.00,0.0,0.0,0.0,0.00,1.5
+2024-08-14,Packing & Unpacking,"Medford, MA",,Arjun M.,136.00,136.00,0.0,0.0,0.0,0.00,2.0
+2024-08-18,Packing & Unpacking,"Boston, MA",,Mina B.,50.00,50.00,0.0,0.0,0.0,0.00,1.0
+2024-08-18,Organization,"Malden, MA",,Jessica C.,235.59,204.00,0.0,0.0,0.0,31.59,3.0
+2024-08-20,Organization,"Brookline, MA",,Jeff B.,126.00,126.00,0.0,0.0,0.0,0.00,2.0
+2024-08-21,Packing & Unpacking,"Newton, MA",,Emma C.,289.00,126.00,0.0,0.0,163.0,0.00,2.0
+2024-08-22,Packing & Unpacking,"Somerville, MA",,michael e.,173.50,157.50,0.0,0.0,0.0,16.00,2.25
+2024-08-22,Packing & Unpacking,"Medford, MA",,Ananya K.,165.00,165.00,0.0,0.0,0.0,0.00,3.0
+2024-08-23,Packing & Unpacking,"Cambridge, MA",,Michelle T.,204.00,204.00,0.0,0.0,0.0,0.00,3.0
+2024-08-24,Event Staffing,"Woburn, MA",,Kinsey S.,337.80,292.50,0.0,0.0,0.0,45.30,4.5
+2024-08-25,Packing & Unpacking,"Cambridge, MA",,Joey B.,202.10,175.00,0.0,0.0,0.0,27.10,2.5
+2024-08-29,Errands,"Boston, MA",,Kristina H.,80.00,80.00,0.0,0.0,0.0,0.00,2.0
+2024-08-29,Organization,"Newton, MA",,Anne C.,272.00,272.00,0.0,0.0,0.0,0.00,4.0
+2024-08-30,Organization,"Somerville, MA",,Josie E.,105.00,105.00,0.0,0.0,0.0,0.00,1.5
+2024-08-30,Packing & Unpacking,"Boston, MA",,Julia G.,220.17,175.00,0.0,0.0,0.0,45.17,2.5
+2024-09-01,Packing & Unpacking,New York City,Arlington,John B.,154.46,140.00,0.0,0.0,0.0,14.46,2.0
+2024-09-06,Packing & Unpacking,"Watertown, MA",Watertown,Rose B.,591.17,490.00,0.0,0.0,0.0,101.17,7.0
+2024-09-18,Event Staffing,"Cambridge, MA",,Kyle K.,163.00,125.00,0.0,0.0,38.0,0.00,2.5
+2024-09-22,Event Staffing,"Cambridge, MA",,Shanti F.,225.00,225.00,0.0,0.0,0.0,0.00,3.75
+2024-09-22,Packing & Unpacking,"Somerville, MA",,Hannahx A.,45.00,45.00,0.0,0.0,0.0,0.00,1.0
+2024-09-23,Computer Help,New York City,North End,End Client: Philip B.,144.78,120.00,0.0,0.0,0.0,24.78,2.0
+2024-09-25,Event Staffing,"Boston, MA",,Chi T.,350.00,350.00,0.0,0.0,0.0,0.00,7.0
+2024-09-27,Packing & Unpacking,"Boston, MA",,Sam G.,135.00,135.00,0.0,0.0,0.0,0.00,3.0
+2024-10-04,Errands,New York City,Andover,Robert B.,90.00,90.00,0.0,0.0,0.0,0.00,2.0
+2024-10-09,Packing & Unpacking,New York City,Wilmington,Chelsea T.,187.67,162.50,0.0,0.0,0.0,25.17,2.5
+2024-10-10,Photography,"Newton, MA",,EDWIN L.,300.00,300.00,0.0,0.0,0.0,0.00,4.0
+2024-10-11,Packing & Unpacking,New York City,Wilmington,Chelsea T.,173.23,150.00,0.0,0.0,0.0,23.23,2.5
+2024-10-16,Computer Help,"Boston, MA",,Kim M.,144.78,120.00,0.0,0.0,0.0,24.78,2.0
+2024-10-16,Organization,"Brookline, MA",,Erin Z.,165.00,165.00,0.0,0.0,0.0,0.00,2.75
+2024-10-19,Event Staffing,"Somerville, MA",,David B.,262.50,262.50,0.0,0.0,0.0,0.00,5.25
+2024-10-20,Packing & Unpacking,"Cambridge, MA",,K' April B.,150.00,120.00,0.0,0.0,0.0,30.00,2.0
+2024-10-20,Event Staffing,"Cambridge, MA",,John H.,100.00,100.00,0.0,0.0,0.0,0.00,2.0
+2024-10-23,Organization,"Boston, MA",,Kristen H.,301.94,240.00,0.0,0.0,0.0,61.94,4.0
+2024-10-27,Photography,"Boston, MA",,Jordan D.,237.50,237.50,0.0,0.0,0.0,0.00,2.5
+2024-10-30,Errands,"Somerville, MA",,Corinne L.,70.00,70.00,0.0,0.0,0.0,0.00,2.0
+2024-11-01,Organization,"Cambridge, MA",,Mike C.,434.33,360.00,0.0,0.0,0.0,74.33,6.0
+2024-11-03,Packing & Unpacking,New York City,Cambridgeport,Scott S.,327.10,260.00,0.0,0.0,0.0,67.10,4.0
+2024-11-05,Errands,"Boston, MA",,Gina L.,54.00,54.00,0.0,0.0,0.0,0.00,1.5
+2024-11-08,Packing & Unpacking,"Boston, MA",,Michael R.,260.00,260.00,0.0,0.0,0.0,0.00,4.0
+2024-11-10,Event Staffing,"Medford, MA",,Saif S.,135.00,135.00,0.0,0.0,0.0,0.00,3.0
+2024-11-13,Packing & Unpacking,"Newton, MA",,Erin H.,337.50,292.50,0.0,0.0,0.0,45.00,4.5
+2024-11-14,Errands,"Watertown, MA",Watertown,Samantha R.,36.00,36.00,0.0,0.0,0.0,0.00,1.0
+2024-11-15,Errands,"Watertown, MA",Watertown,Samantha R.,36.00,36.00,0.0,0.0,0.0,0.00,1.0
+2024-11-15,Photography,"Boston, MA",,Kiersten B.,230.00,230.00,0.0,0.0,0.0,0.00,2.0
+2024-11-16,Errands,"Watertown, MA",Watertown,Samantha R.,36.00,36.00,0.0,0.0,0.0,0.00,1.0
+2024-11-17,Packing & Unpacking,"Brookline, MA",,Yaniv S.,195.00,195.00,0.0,0.0,0.0,0.00,3.0
+2024-11-17,Errands,"Watertown, MA",Watertown,Samantha R.,36.00,36.00,0.0,0.0,0.0,0.00,1.0
+2024-11-20,Photography,"Medford, MA",,Julia B.,125.00,125.00,0.0,0.0,0.0,0.00,1.0
+2024-11-25,Packing & Unpacking,"Somerville, MA",,Kate G.,182.04,165.00,0.0,0.0,0.0,17.04,3.0
+2024-12-03,Computer Help,New York City,Melrose,Maria V.,120.00,120.00,0.0,0.0,0.0,0.00,2.0
+2024-12-08,Packing & Unpacking,"Boston, MA",,Thomas M.,151.70,137.50,0.0,0.0,0.0,14.20,2.5
+2024-12-11,Errands,"Brookline, MA",,martin b.,90.00,90.00,0.0,0.0,0.0,0.00,2.0
+2024-12-14,Event Staffing,New York City,Winchester,Nick K.,175.00,175.00,0.0,0.0,0.0,0.00,3.5
+2024-12-20,Photography,"Boston, MA",,Isabel A.,219.00,219.00,0.0,0.0,0.0,0.00,3.0
+2024-12-22,Event Staffing,New York City,West Cambridge,Cambridge Client: Shannon E.,250.00,250.00,0.0,0.0,0.0,0.00,5.0
+2024-12-28,Packing & Unpacking,"Cambridge, MA",,Andrew M.,250.00,250.00,0.0,0.0,0.0,0.00,5.0
+2024-12-29,Packing & Unpacking,New York City,Melrose,Corinne G.,251.62,200.00,0.0,0.0,0.0,51.62,4.0
+2024-12-30,Computer Help,"Brookline, MA",,Kristine K.,211.25,211.25,0.0,0.0,0.0,0.00,3.25
+2024-12-30,Photography,New York City,Manchester-by-the-Sea,Cooper N.,346.46,300.00,0.0,0.0,0.0,46.46,4.0
+2025-01-03,Packing & Unpacking,"Boston, MA",,JJ D.,186.83,148.50,0.0,0.0,0.0,38.33,2.25
+2025-01-08,Organization,"Cambridge, MA",,Ash K.,140.00,140.00,0.0,0.0,0.0,0.00,3.5
+2025-01-10,Personal Assistant,New York City,Beverly,Sabrina S.,224.95,74.00,0.0,0.0,150.95,0.00,2.0
+2025-01-11,Packing & Unpacking,"Boston, MA",,Samantha J.,150.00,150.00,0.0,0.0,0.0,0.00,2.5
+2025-01-13,Organization,"Waltham, MA",,Terrie H.,125.48,104.00,0.0,0.0,0.0,21.48,2.0
+2025-01-17,Packing & Unpacking,New York City,Revere,Nihaal P.,384.00,384.00,0.0,0.0,0.0,0.00,6.0
+2025-01-18,Packing & Unpacking,"Newton, MA",,Doris D.,240.00,240.00,0.0,0.0,0.0,0.00,4.0
+2025-01-19,Personal Assistant,"Cambridge, MA",,Shashi N.,146.25,146.25,0.0,0.0,0.0,0.00,3.25
+2025-01-23,Packing & Unpacking,"Boston, MA",,Sheila W.,226.46,180.00,0.0,0.0,0.0,46.46,3.0
+2025-01-24,Computer Help,"Waltham, MA",,Elizabeth C.,80.00,80.00,0.0,0.0,0.0,0.00,2.0
+2025-01-28,Organization,"Somerville, MA",,Kathy Z.,289.56,240.00,0.0,0.0,0.0,49.56,4.0
+2025-01-31,Event Staffing,"Waltham, MA",,Dora F.,60.33,50.00,0.0,0.0,0.0,10.33,1.0
+2025-02-01,Event Staffing,"Somerville, MA",,Scott H.,200.00,200.00,0.0,0.0,0.0,0.00,4.0
+2025-02-02,Packing & Unpacking,"Brooklyn, NYC",Downtown,Brendan C.,360.00,360.00,0.0,0.0,0.0,0.00,6.0
+2025-02-02,Organization,"Woburn, MA",,Shabeen S.,60.00,60.00,0.0,0.0,0.0,0.00,1.0
+2025-02-07,Computer Help,"Brookline, MA",,Colette K.,151.70,137.50,3.55,52.28,0.0,14.20,2.75
+2025-02-07,Packing & Unpacking,New York City,,Joelle S.,277.17,240.00,6.19,91.25,0.0,37.17,4.0
+2025-02-14,Packing & Unpacking,"Boston, MA",,Brendan C.,255.00,255.00,0.0,0.0,0.0,0.00,4.25
+2025-02-20,Personal Assistant,"Boston, MA",,Duckbill C.,50.00,50.00,1.29,19.01,0.0,0.00,1.0
+2025-03-04,Packing & Unpacking,"Nahant, MA",,Claire D.,262.74,227.50,5.87,86.5,0.0,35.24,3.5
+2025-03-05,Packing & Unpacking,"Nahant, MA",,Claire D.,156.84,130.00,0.0,0.0,0.0,26.84,2.0
+2025-03-05,Personal Assistant,"Boston, MA",,Teresa C.,180.00,150.00,3.87,57.03,30.0,0.00,3.0
+2025-03-07,Photography,"Boston, MA",,Andrew V.,110.00,110.00,2.84,41.83,0.0,0.00,1.0
+2025-03-11,Personal Assistant,New York City,,Claire C.,200.00,200.00,5.16,76.04,0.0,0.00,4.0
+2025-03-13,Packing & Unpacking,"Boston, MA",,LeAnn L.,363.76,270.00,6.96,102.66,38.0,55.76,4.5
+2025-03-19,Packing & Unpacking,"Boston, MA",,LeAnn L.,482.00,375.00,9.67,142.58,30.0,77.00,6.25
+2025-03-22,Packing & Unpacking,"Malden, MA",,Sarah D.,207.00,180.00,4.64,68.44,0.0,27.00,3.0
+2025-03-24,Computer Help,"Cambridge, MA",,Cathy M.,150.00,150.00,3.87,57.03,0.0,0.00,2.0
+2025-03-24,Packing & Unpacking,"Somerville, MA",,Asseret F.,292.50,292.50,7.54,111.21,0.0,0.00,4.5
+2025-03-25,Packing & Unpacking,"Boston, MA",,Amanda A.,195.00,195.00,5.03,74.14,0.0,0.00,3.0
+2025-03-30,Packing & Unpacking,"Somerville, MA",,Alan M.,184.80,167.50,4.32,63.69,0.0,17.30,2.5
+2025-03-31,Computer Help,"Boston, MA",,Grace C.,262.50,262.50,6.77,99.81,0.0,0.00,3.5
+2025-04-01,Computer Help,"Boston, MA",,Barbara L.,270.75,243.75,6.29,92.68,27.0,0.00,3.25
+2025-04-03,Computer Help,"Newton, MA",,Bernard E.,206.25,206.25,5.32,78.42,0.0,0.00,2.75
+2025-04-04,Packing & Unpacking,"Boston, MA",,Shuheng L.,225.00,201.00,5.18,76.43,4.0,20.00,3.0
+2025-04-16,Packing & Unpacking,"Boston, MA",,Angela K.,137.54,114.00,2.94,43.35,0.0,23.54,2.0
+2025-04-16,Computer Help,"Boston, MA",,Darren F.,135.00,135.00,3.48,51.33,0.0,0.00,2.25
+2025-04-19,Packing & Unpacking,"Brookline, MA",,Tammy H.,346.46,300.00,0.0,0.0,0.0,46.46,5.0
+2025-04-21,Photography,"Cambridge, MA",,Katarina B.,652.50,552.50,14.25,210.07,100.0,0.00,4.25
+2025-04-22,Packing & Unpacking,New York City,,Justin H.,204.04,186.00,4.8,70.72,18.04,0.00,3.0
+2025-04-23,Packing & Unpacking,"Boston, MA",,Michael C.,124.00,124.00,3.2,47.15,0.0,0.00,2.0
+2025-04-25,Packing & Unpacking,"Newton, MA",,Charles L.,186.00,186.00,4.8,70.72,0.0,0.00,3.0
+2025-04-25,Packing & Unpacking,"Boston, MA",,Sonali V.,205.21,186.00,4.8,70.72,0.0,19.21,3.0
+2025-04-26,Photography,New York City,,Street / West Broadway Liz H.,260.00,260.00,6.71,98.86,0.0,0.00,2.0
+2025-04-27,Packing & Unpacking,"Cambridge, MA",,Jeff R.,143.20,124.00,0.0,0.0,0.0,19.20,2.0
+2025-04-27,Photography,New York City,,Street / West Broadway Liz H.,260.00,260.00,6.71,98.86,0.0,0.00,2.0
+2025-04-27,Event Staffing,"Boston, MA",,Marcela L.,225.00,225.00,19.87,85.55,0.0,0.00,4.5
+2025-04-28,Packing & Unpacking,New York City,,Dana C.,448.81,372.00,9.59,141.44,0.0,76.81,6.0
+2025-05-01,Event Staffing,"Boston, MA",,Josh L.,216.00,200.00,17.66,76.04,16.0,0.00,4.0
+2025-05-02,Packing & Unpacking,"Cambridge, MA",,Matheo D.,136.00,136.00,3.51,51.71,0.0,0.00,2.0
+2025-05-07,Packing & Unpacking,"Boston, MA",,Dan Y.,153.00,153.00,3.95,58.18,0.0,0.00,2.25
+2025-05-07,Packing & Unpacking,"Cambridge, MA",,Jean S.,204.00,204.00,5.26,77.57,0.0,0.00,3.0
+2025-05-10,Packing & Unpacking,"Boston, MA",,Vasundhara P.,212.70,204.00,5.26,77.57,8.7,0.00,3.0
+2025-05-11,Packing & Unpacking,"Cambridge, MA",,Jean S.,157.50,157.50,4.06,59.89,0.0,0.00,1.75
+2025-05-17,Photography,"Boston, MA",,Karim K.,130.00,130.00,3.35,49.43,0.0,0.00,1.0
+2025-05-23,Packing & Unpacking,"Boston, MA",,Katelyn B.,195.00,195.00,5.03,74.14,0.0,0.00,3.25
+2025-05-25,Packing & Unpacking,"Cambridge, MA",,Simmons d.,245.00,245.00,6.32,93.15,0.0,0.00,3.5
+2025-05-26,Packing & Unpacking,"Malden, MA",,Chelsea R.,180.00,180.00,4.64,68.44,0.0,0.00,3.0
+2025-05-27,Packing & Unpacking,"Cambridge, MA",,Thanadol C.,140.00,140.00,0.0,0.0,0.0,0.00,2.0
+2025-05-29,Event Staffing,"Cambridge, MA",,Kristin N.,280.00,280.00,24.72,106.46,0.0,0.00,4.0
+2025-06-04,Photography,"Cambridge, MA",,Panashe C.,306.25,306.25,7.9,116.44,0.0,0.00,1.75
+2025-06-11,Packing & Unpacking,"Watertown, MA",,Youssef M.,150.00,150.00,3.87,57.03,0.0,0.00,3.0
+2025-06-11,Packing & Unpacking,"Boston, MA",,Amanda K.,155.00,155.00,4.0,58.94,0.0,0.00,2.5
+2025-06-17,Photography,"Boston, MA",,Angela A.,350.00,350.00,9.03,133.07,0.0,0.00,2.0
+2025-06-18,Packing & Unpacking,"Boston, MA",,Sheila W.,188.72,150.00,3.87,57.03,0.0,38.72,3.0
+2025-06-18,Packing & Unpacking,"Somerville, MA",,Rachel K.,150.00,150.00,3.87,57.03,0.0,0.00,3.0
+2025-06-19,Packing & Unpacking,"Boston, MA",,Seli B.,189.00,189.00,4.87,71.86,0.0,0.00,3.0
+2025-06-20,Packing & Unpacking,New York City,,Matthew K.,331.79,275.00,7.09,104.56,0.0,56.79,5.5
+2025-06-20,Computer Help,"Newton, MA",,monique B.,275.08,228.00,5.88,86.69,0.0,47.08,3.0
+2025-06-21,Computer Help,"Boston, MA",,Sarah O.,120.00,120.00,3.1,45.63,0.0,0.00,2.0
+2025-06-22,Packing & Unpacking,"Boston, MA",,Talia P.,210.00,210.00,5.42,79.85,0.0,0.00,3.0
+2025-06-24,Packing & Unpacking,"Cambridge, MA",,Xiaomeng H.,140.00,140.00,3.61,53.23,0.0,0.00,2.0
+2025-07-09,Packing & Unpacking,"Boston, MA",,Noah R.,189.00,189.00,4.87,71.86,0.0,0.00,3.0
+2025-07-10,Packing & Unpacking,New York City,,Judy K.,189.00,189.00,4.87,71.86,0.0,0.00,3.0
+2025-07-12,Event Staffing,New York City,,John H.,464.84,402.50,35.54,153.04,0.0,62.34,5.75
+2025-07-16,Packing & Unpacking,New York City,Swampscott,Kathleen M.,220.65,200.00,0.0,0.0,0.0,20.65,4.0
+2025-07-17,Packing & Unpacking,"Boston, MA",,Sharon J.,100.00,100.00,2.58,38.02,0.0,0.00,2.0
+2025-07-17,Packing & Unpacking,New York City,,Jocelyn L.,200.00,200.00,5.16,76.04,0.0,0.00,4.0
+2025-07-21,Packing & Unpacking,"Brookline, MA",,Jieun S.,120.00,120.00,3.1,45.63,0.0,0.00,2.0
+2025-07-21,Packing & Unpacking,"Somerville, MA",,Emily F.,165.90,137.50,3.55,52.28,0.0,28.40,2.75
+2025-07-22,Packing & Unpacking,New York City,,Claudia N.,141.22,128.00,3.3,48.67,0.0,13.22,2.0
+2025-07-24,Packing & Unpacking,"Boston, MA",,Trish R.,282.00,256.00,6.6,97.34,0.0,26.00,4.0
+2025-07-27,Packing & Unpacking,"Boston, MA",,Daniel C.,210.00,210.00,5.42,79.85,0.0,0.00,3.5
+2025-07-28,Packing & Unpacking,"Boston, MA",,Parina C.,210.00,210.00,0.0,0.0,0.0,0.00,3.0
+2025-08-02,Event Staffing,"Newton, MA",,Lexi M.,300.00,300.00,26.49,114.06,0.0,0.00,5.0
+2025-08-03,Packing & Unpacking,"Somerville, MA",,Katie C.,280.00,280.00,7.22,106.46,0.0,0.00,4.0
+2025-08-06,Packing & Unpacking,"Brookline, MA",,Thea B.,193.07,175.00,4.51,66.54,0.0,18.07,2.5
+2025-08-07,Packing & Unpacking,"Boston, MA",,Nick L.,255.00,255.00,6.58,96.96,0.0,0.00,3.0
+2025-08-08,Packing & Unpacking,"Waltham, MA",,Ronald L.,253.37,210.00,5.42,79.85,0.0,43.37,3.0
+2025-08-09,Packing & Unpacking,"Cambridge, MA",,John M.,210.00,210.00,5.42,79.85,0.0,0.00,3.0
+2025-08-11,Computer Help,"Brooklyn, NYC",,Darren F.,160.00,160.00,4.13,60.84,0.0,0.00,2.0
+2025-08-15,Packing & Unpacking,"Malden, MA",,Jeffrey M.,375.11,340.00,8.77,129.27,0.0,35.11,4.0
+2025-08-16,Packing & Unpacking,"Boston, MA",,Kevin V.,323.37,280.00,7.22,106.46,0.0,43.37,4.0
+2025-08-19,Packing & Unpacking,"Boston, MA",,Jennifer P.,711.69,616.25,15.89,234.3,0.0,95.44,7.25
+2025-08-21,Packing & Unpacking,"Manhattan, NYC",,Jennifer P.,340.00,340.00,8.77,129.27,0.0,0.00,4.0
+2025-08-23,Packing & Unpacking,"Boston, MA",,Brendan C.,187.50,187.50,4.84,71.29,0.0,0.00,2.5
+2025-08-24,Packing & Unpacking,"Medford, MA",,Patricia W.,188.22,156.00,4.02,59.32,0.0,32.22,2.0
+2025-08-25,Packing & Unpacking,"Newton, MA",,Elizabeth Z.,156.00,156.00,4.02,59.32,0.0,0.00,2.0
+2025-08-27,Packing & Unpacking,"Boston, MA",,Sandy A.,184.78,160.00,4.13,60.84,0.0,24.78,2.0
+2025-08-30,Packing & Unpacking,"Somerville, MA",,Zhuoya Z.,164.00,164.00,4.23,62.36,0.0,0.00,2.0
+2025-09-01,Packing & Unpacking,"Cambridge, MA",,Zhuoya Z.,210.00,210.00,5.42,79.85,0.0,0.00,3.0
+2025-09-02,Packing & Unpacking,"Boston, MA",,Yasmeen R.,150.00,150.00,3.87,57.03,0.0,0.00,2.0
+2025-09-03,Packing & Unpacking,"Woburn, MA",,Kirsten W.,150.00,150.00,3.87,57.03,0.0,0.00,2.0
+2025-09-03,Packing & Unpacking,"Boston, MA",,Andrew A.,225.50,225.50,5.82,85.74,0.0,0.00,2.75
+2025-09-04,Packing & Unpacking,"Brookline, MA",,Ruthie V.,258.80,214.50,5.53,81.56,0.0,44.30,2.75
+2025-09-05,Packing & Unpacking,New York City,,Kirsten W.,160.00,160.00,4.13,60.84,0.0,0.00,2.0
+2025-09-06,Packing & Unpacking,"Cambridge, MA",,Julie B.,270.00,270.00,6.96,102.66,0.0,0.00,3.0
+2025-09-06,Event Staffing,"Newton, MA",,Brian C.,330.98,300.00,26.49,114.06,0.0,30.98,4.0
+2025-09-09,Packing & Unpacking,"Brookline, MA",,Palak J.,196.27,156.00,4.02,59.32,0.0,40.27,2.0
+2025-09-13,Packing & Unpacking,"Boston, MA",,Denise T.,246.00,246.00,6.34,93.53,0.0,0.00,3.0
+2025-09-27,Event Staffing,New York City,,Kelsey C.,243.75,243.75,21.52,92.68,0.0,0.00,3.25
+2025-09-27,Event Staffing,"Boston, MA",,Tim M.,302.00,260.00,22.96,98.86,42.0,0.00,3.25
+2025-10-01,Packing & Unpacking,New York City,,Jen L.,162.50,162.50,4.19,61.79,0.0,0.00,2.5
+2025-10-01,Packing & Unpacking,"Boston, MA",,Joe R.,323.36,280.00,0.0,0.0,0.0,43.36,4.0
+2025-10-21,Event Staffing,"Cambridge, MA",,Vincent P.,210.00,210.00,18.54,0.0,0.0,0.00,3.0
+2025-10-24,Photography,"Newton, MA",,Jim A.,250.00,250.00,6.45,95.05,0.0,0.00,2.5
+2025-10-26,Photography,"Boston, MA",,Benjamin C.,100.00,100.00,2.58,0.0,0.0,0.00,1.0
+2025-10-26,Packing & Unpacking,"Boston, MA",,Pierce G.,210.00,210.00,5.41,0.0,0.0,0.00,3.0
+2025-10-27,Packing & Unpacking,"Boston, MA",,Eri S.,210.00,210.00,5.41,0.0,0.0,0.00,3.0
+2025-11-02,Computer Help,"Nahant, MA",,Katherine J.,60.00,60.00,0.0,0.0,0.0,0.00,1.0
+2025-11-04,Computer Help,"Nahant, MA",,Katherine J.,180.00,180.00,4.64,0.0,0.0,0.00,3.0
+2025-11-05,Packing & Unpacking,New York City,,Rebecca V.,150.00,150.00,3.87,0.0,0.0,0.00,2.5
+2025-11-14,Computer Help,"Boston, MA",,Scott S.,$375.13,$292.50,7.54,0.0,0.0,$82.63,4.5
+2025-11-16,Photography,"Boston, MA",,Todd H.,$220.00,$220.00,5.67,0.0,0.0,0.00,2.0
