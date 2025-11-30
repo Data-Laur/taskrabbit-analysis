@@ -1,0 +1,485 @@
+Year,Quarter,Month,Month_Name,Week_of_Year,Day,Is_Weekend,Category,City,Neighborhood,Client_Name,Hourly_Rate,Hours,Earnings,Tip,Tip_Percentage,Has_Tip,High_Tip,Total
+2022,Q2,4,April,16,20,False,Packing & Unpacking,New York City,,Ben G.,28,3.0,84.0,0.0,0,0,0,84.0
+2022,Q2,4,April,16,21,False,Packing & Unpacking,"Brooklyn, NYC",Brownsville,Andrea C.,28,2.0,56.0,0.0,0,0,0,56.0
+2022,Q2,4,April,16,21,False,Photography,"Brooklyn, NYC",Greenpoint,David J.,70,2.0,140.0,21.0,15,1,0,161.0
+2022,Q2,4,April,16,22,False,Organization,New York City,,Chris K.,30,4.0,120.0,0.0,0,0,0,125.5
+2022,Q2,4,April,17,26,False,Packing & Unpacking,"Brooklyn, NYC",Kensington,Elizabeth E.,33,3.5,115.5,0.0,0,0,0,115.5
+2022,Q2,4,April,17,27,False,Packing & Unpacking,New York City,,Adar B.,28,3.75,105.0,0.0,0,0,0,105.0
+2022,Q2,5,May,18,3,False,Packing & Unpacking,New York City,,Jia K.,34,2.0,68.0,0.0,0,0,0,68.0
+2022,Q2,5,May,18,3,False,Packing & Unpacking,New York City,,Sarah B.,34,4.5,153.0,30.6,20,1,1,183.6
+2022,Q2,5,May,18,6,False,Event Staffing,New York City,,Brian L.,38,4.5,171.0,0.0,0,0,0,171.0
+2022,Q2,5,May,19,11,False,Writing & Editing,New York City,,Maureen M.,26,6.5,169.0,16.9,10,1,0,185.9
+2022,Q2,5,May,20,16,False,Photography,New York City,,Charlette R.,120,5.0,600.0,0.0,0,0,0,600.0
+2022,Q2,5,May,20,19,False,Packing & Unpacking,New York City,Carroll Gardens,Li T.,36,3.0,108.0,0.0,0,0,0,108.0
+2022,Q2,5,May,20,19,False,Packing & Unpacking,"Brooklyn, NYC",Crown Heights,Sake W.,36,3.0,108.0,0.0,0,0,0,108.0
+2022,Q2,5,May,20,20,False,Personal Assistant,New York City,,Yangfan C.,36,4.5,162.0,16.2,10,1,0,178.2
+2022,Q2,5,May,20,20,False,Photography,New York City,Long Island City,Jared R.,130,2.25,292.5,0.0,0,0,0,292.5
+2022,Q2,5,May,21,23,False,Packing & Unpacking,New York City,,Alex V.,36,3.25,117.0,29.25,25,1,1,146.25
+2022,Q2,5,May,21,24,False,Packing & Unpacking,"Brooklyn, NYC",Bushwick,Jenny M.,36,5.5,198.0,29.7,15,1,0,227.7
+2022,Q2,5,May,21,26,False,Packing & Unpacking,"Brooklyn, NYC",Park Slope,Mary S.,36,4.0,144.0,0.0,0,0,0,144.0
+2022,Q2,5,May,21,27,False,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Anette R.,36,3.0,108.0,21.6,20,1,1,129.6
+2022,Q2,5,May,21,27,False,Packing & Unpacking,New York City,,Saria S.,36,3.0,108.0,16.2,15,1,0,124.2
+2022,Q2,6,June,23,7,False,Packing & Unpacking,New York City,Brooklyn Heights,Maryann C.,37,4.0,148.0,0.0,0,0,0,148.0
+2022,Q2,6,June,23,8,False,Packing & Unpacking,New York City,,Alex V.,40,2.5,100.0,25.0,25,1,1,125.0
+2022,Q2,6,June,23,10,False,Packing & Unpacking,New York City,,Joshua P.,37,2.5,92.5,18.5,20,1,1,116.5
+2022,Q2,6,June,24,14,False,Packing & Unpacking,New York City,,Lindsay B.,36,3.0,108.0,16.2,15,1,0,124.2
+2022,Q2,6,June,24,17,False,Packing & Unpacking,New York City,,Tim K.,39,4.0,156.0,0.0,0,0,0,161.5
+2022,Q2,6,June,24,18,True,Packing & Unpacking,New York City,,Mary M.,38,3.0,114.0,22.8,20,1,1,136.8
+2022,Q2,6,June,24,19,True,Packing & Unpacking,New York City,,Vicky H.,28,2.0,56.0,0.0,0,0,0,56.0
+2022,Q2,6,June,25,21,False,Organization,"Brooklyn, NYC",Flatbush,Devin P.,29,2.0,58.0,0.0,0,0,0,58.0
+2022,Q2,6,June,25,21,False,Packing & Unpacking,"Brooklyn, NYC",Park Slope,Neta G.,38,3.75,142.5,21.38,15,1,1,169.38
+2022,Q2,6,June,25,22,False,Packing & Unpacking,"Brooklyn, NYC",Bushwick,Whitney E.,38,3.25,123.5,0.0,0,0,0,129.0
+2022,Q2,6,June,25,23,False,Packing & Unpacking,"Brooklyn, NYC",Park Slope,Chris E.,38,6.0,228.0,0.0,0,0,0,233.5
+2022,Q2,6,June,25,24,False,Photography,New York City,,Megan D.,75,5.75,431.25,0.0,0,0,0,431.25
+2022,Q2,6,June,25,25,True,Photography,"Brooklyn, NYC",Flatbush,Devin P.,75,1.0,75.0,0.0,0,0,0,75.0
+2022,Q2,6,June,25,26,True,Packing & Unpacking,New York City,,Mary M.,38,4.25,161.5,32.3,20,1,1,193.8
+2022,Q2,6,June,26,27,False,Packing & Unpacking,New York City,,Maria D.,45,2.0,90.0,0.0,0,0,0,90.0
+2022,Q2,6,June,26,27,False,Packing & Unpacking,New York City,Prospect Lefferts Gardens,Sarah M.,42,3.0,126.0,0.0,0,0,0,126.0
+2022,Q2,6,June,26,27,False,Event Staffing,New York City,,Steve M.,35,2.0,70.0,0.0,0,0,0,70.0
+2022,Q2,6,June,26,29,False,Packing & Unpacking,"Brooklyn, NYC",Prospect Heights,Steven B.,38,7.0,266.0,53.2,20,1,1,319.2
+2022,Q2,6,June,26,29,False,Packing & Unpacking,New York City,,Jonathan B.,50,3.5,175.0,0.0,0,0,0,175.0
+2022,Q3,7,July,26,2,True,Photography,New York City,,Brent L.,75,1.5,112.5,0.0,0,0,0,112.5
+2022,Q3,7,July,26,3,True,Event Staffing,"Brooklyn, NYC",Brooklyn Heights,Barak C.,42,3.75,157.5,0.0,0,0,0,157.5
+2022,Q3,7,July,27,5,False,Writing & Editing,New York City,Park Slope,M Shah J.,25,1.0,25.0,0.0,0,0,0,25.0
+2022,Q3,7,July,27,5,False,Photography,"Brooklyn, NYC",Williamsburg,Christina R.,75,4.0,300.0,0.0,0,0,0,300.0
+2022,Q3,7,July,27,8,False,Event Staffing,New York City,,Chana K.,35,4.0,140.0,0.0,0,0,0,145.5
+2022,Q3,7,July,28,11,False,Event Staffing,New York City,,Carson W.,42,4.0,168.0,0.0,0,0,0,168.0
+2022,Q3,7,July,28,11,False,Photography,New York City,,Kelly R.,125,4.0,500.0,100.0,20,1,1,600.0
+2022,Q3,7,July,28,13,False,Other,New York City,Brooklyn Navy Yard,Silvio G.,24,2.0,48.0,0.0,0,0,0,53.5
+2022,Q3,7,July,28,14,False,Packing & Unpacking,"Brooklyn, NYC",Crown Heights,Joel L.,38,4.0,152.0,0.0,0,0,0,152.0
+2022,Q3,7,July,28,16,True,Packing & Unpacking,New York City,,Jenny W.,38,2.5,95.0,23.75,25,1,1,118.75
+2022,Q3,7,July,28,17,True,Packing & Unpacking,New York City,,Daniel R.,38,2.5,95.0,19.0,20,1,1,114.0
+2022,Q3,7,July,29,18,False,Event Staffing,New York City,Flatlands,Alexis G.,42,5.5,231.0,0.0,0,0,0,231.0
+2022,Q3,7,July,29,21,False,Photography,New York City,,Sara B.,100,1.0,100.0,0.0,0,0,0,100.0
+2022,Q3,7,July,29,24,True,Packing & Unpacking,New York City,,Natalia H.,39,2.0,78.0,0.0,0,0,0,78.0
+2022,Q3,7,July,30,28,False,Packing & Unpacking,New York City,East Williamsburg,Ann G.,39,3.0,117.0,0.0,0,0,0,117.0
+2022,Q3,7,July,30,29,False,Photography,New York City,,Evan K.,100,1.75,175.0,0.0,0,0,0,175.0
+2022,Q3,8,August,31,6,True,Packing & Unpacking,New York City,,Meghan K.,42,2.5,105.0,0.0,0,0,0,128.0
+2022,Q3,8,August,31,6,True,Organization,"Brooklyn, NYC",Carroll Gardens,Henry P.,33,9.0,297.0,0.0,0,0,0,297.0
+2022,Q3,8,August,31,6,True,Packing & Unpacking,"Brooklyn, NYC",Flatbush,Sophie K.,39,4.25,165.75,33.15,20,1,1,198.9
+2022,Q3,8,August,32,9,False,Office Administration,New York City,Carroll Gardens,Sybil S.,34,3.75,127.5,25.5,20,1,1,153.0
+2022,Q3,8,August,32,10,False,Photography,New York City,,Diane B.,140,4.0,560.0,0.0,0,0,0,560.0
+2022,Q3,8,August,32,10,False,Event Staffing,"Brooklyn, NYC",Greenpoint,Sapphire S.,40,3.0,120.0,0.0,0,0,0,120.0
+2022,Q3,8,August,32,14,True,Web Design & Development,New York City,,Samuel J.,27,2.0,54.0,0.0,0,0,0,54.0
+2022,Q3,8,August,33,15,False,Photography,"Brooklyn, NYC",Greenpoint,Kevin M.,100,4.0,400.0,40.0,10,1,0,470.0
+2022,Q3,8,August,34,24,False,Office Administration,New York City,,Johnny G.,34,2.0,68.0,10.2,15,1,0,78.2
+2022,Q3,8,August,34,27,True,Packing & Unpacking,New York City,,Erin C.,38,3.0,114.0,0.0,0,0,0,114.0
+2022,Q3,8,August,34,27,True,Packing & Unpacking,New York City,,Marilyn B.,40,2.0,80.0,16.0,20,1,1,96.0
+2022,Q3,8,August,35,29,False,Packing & Unpacking,New York City,,Carole L.,38,4.0,152.0,0.0,0,0,0,152.0
+2022,Q3,8,August,35,29,False,Packing & Unpacking,"Brooklyn, NYC",Park Slope,Walker M.,38,7.0,266.0,53.2,20,1,1,319.2
+2022,Q3,8,August,35,29,False,Web Design & Development,New York City,,Samuel J.,45,1.0,45.0,0.0,0,0,0,45.0
+2022,Q3,8,August,35,30,False,Packing & Unpacking,"Brooklyn, NYC",Bushwick,Nichelle W.,45,3.5,157.5,0.0,0,0,0,157.5
+2022,Q3,8,August,35,30,False,Help Moving,"Brooklyn, NYC",Bensonhurst,X R.,35,2.0,70.0,14.0,20,1,1,84.0
+2022,Q3,8,August,35,31,False,Packing & Unpacking,New York City,,Anthony S.,45,4.0,180.0,18.0,10,1,0,198.0
+2022,Q3,8,August,35,31,False,Packing & Unpacking,"Brooklyn, NYC",Bedford-Stuyvesant,Darya I.,45,2.5,112.5,0.0,0,0,0,112.5
+2022,Q3,9,September,35,1,False,Photography,New York City,,Umbi A.,63,1.0,63.0,12.6,20,1,1,75.6
+2022,Q3,9,September,35,1,False,Packing & Unpacking,New York City,,Ashley G.,45,2.5,112.5,22.5,20,1,1,135.0
+2022,Q3,9,September,35,2,False,Packing & Unpacking,New York City,,Cary S.,38,2.5,95.0,19.0,20,1,1,114.0
+2022,Q3,9,September,35,3,True,Packing & Unpacking,New York City,,Dave P.,45,7.0,315.0,47.25,15,1,0,362.25
+2022,Q3,9,September,36,5,False,Packing & Unpacking,New York City,Long Island City,Ram K.,38,3.25,123.5,0.0,0,0,0,123.5
+2022,Q3,9,September,36,5,False,Packing & Unpacking,"Brooklyn, NYC",Kensington,Chloe S.,40,3.5,140.0,0.0,0,0,0,140.0
+2022,Q3,9,September,36,6,False,Packing & Unpacking,New York City,,Peter T.,45,3.25,146.25,0.0,0,0,0,146.25
+2022,Q3,9,September,36,9,False,Event Staffing,New York City,,Casta Z.,40,3.0,120.0,0.0,0,0,0,120.0
+2022,Q3,9,September,36,10,True,Packing & Unpacking,"Brooklyn, NYC",Kensington,Michael S.,45,2.0,90.0,0.0,0,0,0,90.0
+2022,Q3,9,September,36,11,True,Event Staffing,New York City,,Arianna G.,40,2.0,80.0,20.0,25,1,1,100.0
+2022,Q3,9,September,36,11,True,Photography,New York City,,Aaron M.,75,2.0,150.0,0.0,0,0,0,150.0
+2022,Q3,9,September,37,12,False,Packing & Unpacking,"Queens, NYC",Long Island City,Wirecutter O.,45,4.0,180.0,18.0,10,1,0,198.0
+2022,Q3,9,September,37,13,False,Photography,New York City,,Alanna M.,75,2.5,187.5,0.0,0,0,0,187.5
+2022,Q3,9,September,37,15,False,Event Staffing,New York City,,George Y.,50,3.75,187.5,0.0,0,0,0,187.5
+2022,Q3,9,September,37,15,False,Photography,New York City,Prospect Lefferts Gardens,Lena A.,60,2.0,120.0,0.0,0,0,0,120.0
+2022,Q3,9,September,37,17,True,Event Staffing,New York City,,Mark C.,40,4.0,160.0,0.0,0,0,0,160.0
+2022,Q3,9,September,37,18,True,Packing & Unpacking,New York City,,Jacqueline B.,50,3.25,162.5,24.38,15,1,1,186.88
+2022,Q3,9,September,38,19,False,Packing & Unpacking,"Brooklyn, NYC",Park Slope,Rebecca M.,47,2.75,129.25,0.0,0,0,0,129.25
+2022,Q3,9,September,38,22,False,Photography,New York City,,Mayur C.,80,2.0,160.0,0.0,0,0,0,160.0
+2022,Q3,9,September,38,22,False,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Morgan H.,50,4.0,200.0,20.0,10,1,0,220.0
+2022,Q3,9,September,38,22,False,Packing & Unpacking,New York City,,Warren M.,50,2.5,125.0,31.25,25,1,1,156.25
+2022,Q3,9,September,38,24,True,Packing & Unpacking,"Brooklyn, NYC",Brooklyn Heights,Stephanie B.,55,3.0,165.0,33.0,20,1,1,198.0
+2022,Q3,9,September,38,25,True,Packing & Unpacking,New York City,,Dan P.,50,2.5,125.0,0.0,0,0,0,125.0
+2022,Q3,9,September,38,25,True,Packing & Unpacking,"Brooklyn, NYC",Greenpoint,Kara E.,50,2.5,125.0,0.0,0,0,0,125.0
+2022,Q3,9,September,38,25,True,Event Staffing,New York City,,Moses L.,50,3.0,150.0,0.0,0,0,0,150.0
+2022,Q3,9,September,39,26,False,Photography,New York City,,Mohammad A.,90,2.0,180.0,0.0,0,0,0,180.0
+2022,Q3,9,September,39,27,False,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Nancy D.,50,2.25,112.5,0.0,0,0,0,112.5
+2022,Q3,9,September,39,28,False,Packing & Unpacking,New York City,,Brian T.,50,1.0,50.0,0.0,0,0,0,50.0
+2022,Q3,9,September,39,28,False,Packing & Unpacking,New York City,Carroll Gardens,Kat D.,50,5.0,250.0,0.0,0,0,0,250.0
+2022,Q3,9,September,39,29,False,Event Staffing,New York City,,Lauren Y.,50,4.0,200.0,0.0,0,0,0,200.0
+2022,Q3,9,September,39,30,False,Packing & Unpacking,New York City,,Michael H.,50,5.0,250.0,0.0,0,0,0,250.0
+2022,Q4,10,October,40,3,False,Event Staffing,New York City,,Carson W.,60,4.5,270.0,0.0,0,0,0,270.0
+2022,Q4,10,October,40,3,False,Organization,New York City,,Leila R.,50,1.0,50.0,0.0,0,0,0,50.0
+2022,Q4,10,October,40,3,False,Packing & Unpacking,New York City,,Lisa G.,50,2.25,112.5,0.0,0,0,0,112.5
+2022,Q4,10,October,40,5,False,Photography,New York City,,Lukas J.,75,2.0,150.0,0.0,0,0,0,150.0
+2022,Q4,10,October,41,12,False,Packing & Unpacking,New York City,,Stephen Y.,44,3.25,143.0,0.0,0,0,0,143.0
+2022,Q4,10,October,42,19,False,Packing & Unpacking,New York City,,Hayden R.,48,3.0,144.0,0.0,0,0,0,144.0
+2022,Q4,10,October,42,20,False,Photography,New York City,,Ian M.,72,2.0,144.0,0.0,0,0,0,144.0
+2022,Q4,10,October,42,23,True,Photography,New York City,,Christine L.,74,2.0,148.0,22.2,15,1,0,170.2
+2022,Q4,10,October,43,24,False,Packing & Unpacking,New York City,,Mike L.,48,6.0,288.0,0.0,0,0,0,288.0
+2022,Q4,10,October,43,25,False,Event Staffing,New York City,,Andrew O.,55,1.5,82.5,0.0,0,0,0,82.5
+2022,Q4,10,October,43,26,False,Packing & Unpacking,New York City,,Mike L.,48,4.0,192.0,0.0,0,0,0,192.0
+2022,Q4,10,October,43,27,False,Event Staffing,New York City,,Chaquetta G.,55,4.25,233.75,0.0,0,0,0,233.75
+2022,Q4,10,October,43,28,False,Computer Help,"Brooklyn, NYC",Boerum Hill,Hadley P.,40,2.0,80.0,0.0,0,0,0,80.0
+2022,Q4,10,October,43,29,True,Packing & Unpacking,New York City,,Paul Q.,60,1.0,60.0,0.0,0,0,0,60.0
+2022,Q4,10,October,43,30,True,Packing & Unpacking,"Brooklyn, NYC",Greenpoint,Tessa R.,48,1.0,48.0,0.0,0,0,0,48.0
+2022,Q4,11,November,45,8,False,Photography,New York City,,Shallini M.,72,2.0,144.0,0.0,0,0,0,144.0
+2022,Q4,11,November,46,16,False,Photography,"Brooklyn, NYC",Downtown Brooklyn,Cole Y.,72,2.0,144.0,0.0,0,0,0,144.0
+2022,Q4,11,November,47,27,True,Computer Help,New York City,,Olivia E.,40,5.5,220.0,0.0,0,0,0,220.0
+2022,Q4,11,November,48,28,False,Packing & Unpacking,New York City,,Vera Z.,42,2.5,105.0,10.5,10,1,0,115.5
+2022,Q4,12,December,48,1,False,Event Staffing,"Brooklyn, NYC",Flatbush,Devin P.,43,2.0,86.0,0.0,0,0,0,86.0
+2022,Q4,12,December,48,3,True,Event Staffing,New York City,,Don H.,55,2.0,110.0,0.0,0,0,0,110.0
+2022,Q4,12,December,48,4,True,Event Staffing,New York City,,Anjali A.,40,2.0,80.0,0.0,0,0,0,80.0
+2022,Q4,12,December,49,6,False,Packing & Unpacking,New York City,Long Island City,Ali L.,44,7.25,319.0,0.0,0,0,0,319.0
+2022,Q4,12,December,49,7,False,Photography,"Brooklyn, NYC",Carroll Gardens,Kerry J.,76,2.0,152.0,0.0,0,0,0,152.0
+2022,Q4,12,December,49,8,False,Event Staffing,New York City,,Clayton A.,40,3.0,120.0,0.0,0,0,0,120.0
+2022,Q4,12,December,49,9,False,Event Staffing,New York City,,Alex S.,40,4.0,160.0,0.0,0,0,0,160.0
+2022,Q4,12,December,49,9,False,Packing & Unpacking,New York City,,Elizabeth K.,42,1.0,42.0,0.0,0,0,0,42.0
+2022,Q4,12,December,49,9,False,Photography,New York City,,Umbi A.,76,1.0,76.0,0.0,0,0,0,76.0
+2022,Q4,12,December,49,9,False,Event Staffing,New York City,,Lennart K.,37,2.5,92.5,18.5,20,1,1,111.0
+2022,Q4,12,December,49,10,True,Photography,New York City,,Megan M.,75,2.0,150.0,0.0,0,0,0,150.0
+2022,Q4,12,December,49,10,True,Photography,New York City,,Cristen L.,75,2.0,150.0,37.5,25,1,1,187.5
+2022,Q4,12,December,49,11,True,Event Staffing,New York City,,Reade R.,43,1.75,75.25,0.0,0,0,0,75.25
+2022,Q4,12,December,49,11,True,Packing & Unpacking,New York City,Park Slope,Richard B.,42,3.0,126.0,18.9,15,1,0,144.9
+2022,Q4,12,December,50,12,False,Event Staffing,New York City,Park Slope,Maxine C.,40,6.75,270.0,27.0,10,1,0,297.0
+2022,Q4,12,December,50,13,False,Computer Help,"Brooklyn, NYC",Park Slope,Allison T.,38,2.0,76.0,0.0,0,0,0,76.0
+2022,Q4,12,December,50,15,False,Packing & Unpacking,"Brooklyn, NYC",Park Slope,Richard B.,45,4.75,213.75,0.0,0,0,0,213.75
+2022,Q4,12,December,50,15,False,Packing & Unpacking,"Brooklyn, NYC",Park Slope,Richard B.,45,3.0,135.0,27.0,20,1,1,162.0
+2022,Q4,12,December,50,17,True,Event Staffing,New York City,Fort Greene,Catesby P.,37,4.75,175.75,0.0,0,0,0,175.75
+2022,Q4,12,December,51,21,False,Packing & Unpacking,New York City,Windsor Terrace,Oriel P.,45,5.0,225.0,0.0,0,0,0,225.0
+2022,Q4,12,December,52,27,False,Photography,New York City,,Lotta J.,75,2.0,150.0,0.0,0,0,0,150.0
+2023,Q1,1,January,2,10,False,Photography,New York City,,Dave O.,75,5.25,393.75,0.0,0,0,0,393.75
+2023,Q1,1,January,2,11,False,Computer Help,New York City,Fort Greene,Mary P.,34,3.0,102.0,0.0,0,0,0,102.0
+2023,Q1,1,January,2,12,False,Event Staffing,New York City,,Alyssa Z.,33,4.5,148.5,0.0,0,0,0,148.5
+2023,Q1,1,January,2,13,False,Packing & Unpacking,"Brooklyn, NYC",Bedford-Stuyvesant,Fizz M.,38,4.0,152.0,0.0,0,0,0,152.0
+2023,Q1,1,January,3,16,False,Packing & Unpacking,New York City,Long Island City,Terry C.,38,2.75,104.5,0.0,0,0,0,104.5
+2023,Q1,1,January,3,17,False,Personal Assistant,"Brooklyn, NYC",Flatbush,Garry N.,25,5.0,125.0,25.81,21,1,1,150.81
+2023,Q1,1,January,3,18,False,Personal Assistant,New York City,Brooklyn Navy Yard,Gil T.,25,3.5,87.5,0.0,0,0,0,87.5
+2023,Q1,1,January,3,18,False,Computer Help,New York City,,Robin K.,34,1.75,59.5,0.0,0,0,0,59.5
+2023,Q1,1,January,3,20,False,Computer Help,New York City,,Jocelyn G.,36,3.5,126.0,19.51,15,1,1,145.51
+2023,Q1,1,January,3,20,False,Computer Help,"Brooklyn, NYC",Brooklyn Heights,Stacey D.,34,2.0,68.0,10.53,15,1,1,78.53
+2023,Q1,1,January,3,20,False,Event Staffing,New York City,,Lesly B.,37,3.5,129.5,20.05,15,1,1,149.55
+2023,Q1,1,January,3,21,True,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Jessica W.,43,5.0,215.0,33.3,15,1,1,248.3
+2023,Q1,1,January,3,22,True,Event Staffing,"Queens, NYC",Long Island City,Eliana Z.,36,4.5,162.0,0.0,0,0,0,162.0
+2023,Q1,1,January,4,24,False,Computer Help,New York City,,Melissa G.,40,2.5,100.0,10.33,10,1,0,110.33
+2023,Q1,1,January,4,25,False,Packing & Unpacking,New York City,,Taylor W.,44,2.0,88.0,0.0,0,0,0,88.0
+2023,Q1,1,January,4,25,False,Packing & Unpacking,New York City,,Judy Y.,44,3.25,143.0,0.0,0,0,0,143.0
+2023,Q1,1,January,4,29,True,Packing & Unpacking,New York City,Clinton Hill,George N.,44,4.0,176.0,0.0,0,0,0,176.0
+2023,Q1,1,January,4,29,True,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Cinthya S.,44,2.0,88.0,0.0,0,0,0,88.0
+2023,Q1,1,January,5,30,False,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Morgan S.,44,2.0,88.0,0.0,0,0,0,88.0
+2023,Q1,1,January,5,30,False,Computer Help,"Brooklyn, NYC",Williamsburg,Sean R.,40,2.0,80.0,0.0,0,0,0,80.0
+2023,Q1,1,January,5,31,False,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Sanjay C.,25,1.0,25.0,0.0,0,0,0,25.0
+2023,Q1,2,February,5,1,False,Computer Help,New York City,Crown Heights,Amanda A.,43,2.0,86.0,0.0,0,0,0,86.0
+2023,Q1,2,February,5,1,False,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Sunny V.,44,4.25,187.0,38.61,21,1,1,225.61
+2023,Q1,2,February,5,3,False,Packing & Unpacking,"Manhattan, NYC",Tribeca,Vera R.,46,5.0,230.0,0.0,0,0,0,230.0
+2023,Q1,2,February,5,5,True,Packing & Unpacking,New York City,,Sachin B.,44,5.0,220.0,45.42,21,1,1,265.42
+2023,Q1,2,February,6,7,False,Packing & Unpacking,"Manhattan, NYC",Lower East Side,Virginia R.,46,2.0,92.0,0.0,0,0,0,92.0
+2023,Q1,2,February,6,8,False,Packing & Unpacking,"Brooklyn, NYC",Fort Greene,Laurel H.,46,3.5,161.0,0.0,0,0,0,161.0
+2023,Q1,2,February,6,12,True,Photography,New York City,,Joseph F.,82,2.0,164.0,0.0,0,0,0,164.0
+2023,Q1,2,February,7,15,False,Packing & Unpacking,"Staten Island, NYC",Battery Park City,Robert S.,50,5.5,275.0,0.0,0,0,0,275.0
+2023,Q1,2,February,7,16,False,Packing & Unpacking,New York City,,Shane S.,48,2.5,120.0,0.0,0,0,0,120.0
+2023,Q1,2,February,7,18,True,Packing & Unpacking,New York City,,Andrea R.,42,3.5,147.0,22.77,15,1,1,169.77
+2023,Q1,2,February,8,20,False,Packing & Unpacking,New York City,,Stella S.,48,2.0,96.0,0.0,0,0,0,96.0
+2023,Q1,2,February,8,20,False,Packing & Unpacking,"Brooklyn, NYC",Downtown Brooklyn,Mandy W.,46,2.0,92.0,0.0,0,0,0,92.0
+2023,Q1,2,February,8,21,False,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Jana A.,55,4.0,220.0,0.0,0,0,0,220.0
+2023,Q1,2,February,8,22,False,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Sean M.,55,3.0,165.0,34.07,21,1,1,199.07
+2023,Q1,2,February,8,22,False,Web Design & Development,New York City,,Caitlin J.,40,2.0,80.0,16.52,21,1,1,96.52
+2023,Q1,2,February,8,25,True,Packing & Unpacking,"Brooklyn, NYC",Brooklyn Heights,Ben G.,55,4.0,220.0,0.0,0,0,0,220.0
+2023,Q1,2,February,9,27,False,Packing & Unpacking,New York City,,Chloe A.,65,2.0,130.0,0.0,0,0,0,130.0
+2023,Q1,3,March,10,8,False,Photography,New York City,,Jerry B.,75,2.0,150.0,0.0,0,0,0,150.0
+2023,Q1,3,March,10,9,False,Photography,"Brooklyn, NYC",Downtown Brooklyn,Brent S.,75,2.0,150.0,0.0,0,0,0,150.0
+2023,Q1,3,March,12,26,True,Packing & Unpacking,"Manhattan, NYC",Upper West Side,Molly G.,48,2.5,120.0,18.59,15,1,1,138.59
+2023,Q1,3,March,13,28,False,Packing & Unpacking,New York City,,Emily W.,48,4.0,192.0,49.55,26,1,1,241.55
+2023,Q1,3,March,13,30,False,Packing & Unpacking,"Queens, NYC",Long Island City,Megan M.,48,6.5,312.0,0.0,0,0,0,312.0
+2023,Q2,4,April,13,2,True,Packing & Unpacking,"Manhattan, NYC",Midtown,Pranay R.,48,3.0,144.0,0.0,0,0,0,144.0
+2023,Q2,4,April,14,6,False,Packing & Unpacking,New York City,,Beth G.,55,2.0,110.0,17.04,15,1,1,128.44
+2023,Q2,4,April,14,8,True,Packing & Unpacking,New York City,,Mani G.,38,1.0,38.0,0.0,0,0,0,38.0
+2023,Q2,4,April,14,9,True,Packing & Unpacking,New York City,,Kimberly N.,43,2.25,96.75,0.0,0,0,0,96.75
+2023,Q2,4,April,14,9,True,Packing & Unpacking,New York City,,V P.,43,3.0,129.0,0.0,0,0,0,129.0
+2023,Q2,4,April,15,10,False,Packing & Unpacking,"Manhattan, NYC",Upper East Side,Luisa B.,43,2.0,86.0,0.0,0,0,0,86.0
+2023,Q2,4,April,15,12,False,Packing & Unpacking,New York City,,Fred A.,38,2.5,95.0,0.0,0,0,0,95.0
+2023,Q2,4,April,15,15,True,Packing & Unpacking,New York City,,Evan W.,43,1.5,64.5,0.0,0,0,0,64.5
+2023,Q2,4,April,16,19,False,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Sam B.,39,2.0,78.0,0.0,0,0,0,78.0
+2023,Q2,4,April,16,20,False,Packing & Unpacking,New York City,,Steven R.,43,2.25,96.75,0.0,0,0,0,96.75
+2023,Q2,4,April,16,23,True,Packing & Unpacking,"Manhattan, NYC",Upper East Side,Nina M.,55,8.5,467.5,72.4,15,1,1,546.29
+2023,Q2,4,April,17,24,False,Packing & Unpacking,"Queens, NYC",Long Island City,Wirecutter O.,39,3.75,146.25,0.0,0,0,0,146.25
+2023,Q2,4,April,17,25,False,Packing & Unpacking,"Manhattan, NYC",Murray Hill,Jody G.,43,2.0,86.0,0.0,0,0,0,86.0
+2023,Q2,4,April,17,26,False,Photography,"Manhattan, NYC",Chelsea,Anthony C.,75,1.0,75.0,0.0,0,0,0,75.0
+2023,Q2,4,April,17,27,False,Packing & Unpacking,"Brooklyn, NYC",Flatbush,Natalie B.,43,4.0,172.0,0.0,0,0,0,172.0
+2023,Q2,5,May,18,1,False,Packing & Unpacking,"Brooklyn, NYC",Boerum Hill,Annie L.,45,4.0,180.0,0.0,0,0,0,180.0
+2023,Q2,5,May,18,2,False,Packing & Unpacking,New York City,Park Slope,Annie L.,45,1.0,45.0,0.0,0,0,0,45.0
+2023,Q2,5,May,18,2,False,Packing & Unpacking,New York City,,Cyrus H.,43,3.0,129.0,13.32,10,1,0,142.32
+2023,Q2,5,May,18,5,False,Packing & Unpacking,"Brooklyn, NYC",Brooklyn Heights,Jonathan R.,45,2.25,101.25,20.91,21,1,1,122.16
+2023,Q2,5,May,18,6,True,Packing & Unpacking,"Brooklyn, NYC",Boerum Hill,Catherine K.,55,2.5,137.5,0.0,0,0,0,137.5
+2023,Q2,5,May,18,6,True,Packing & Unpacking,"Brooklyn, NYC",Carroll Gardens,Hara P.,50,2.25,112.5,17.43,15,1,1,129.93
+2023,Q2,5,May,19,13,True,Photography,New York City,,Taylor H.,77,1.0,77.0,0.0,0,0,0,77.0
+2023,Q2,5,May,19,14,True,Packing & Unpacking,New York City,,Skyler T.,65,2.5,162.5,0.0,0,0,0,162.5
+2023,Q2,5,May,20,15,False,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Jorge R.,65,3.5,227.5,35.23,15,1,1,262.73
+2023,Q2,5,May,20,16,False,Photography,"Brooklyn, NYC",Williamsburg,Kyle R.,90,2.0,180.0,0.0,0,0,0,180.0
+2023,Q2,5,May,20,18,False,Photography,New York City,,Alyssa G.,77,1.0,77.0,0.0,0,0,0,77.0
+2023,Q2,5,May,21,24,False,Photography,New York City,,Margaret C.,82,1.0,82.0,0.0,0,0,0,82.0
+2023,Q2,6,June,23,7,False,Photography,"Manhattan, NYC",Tribeca,Aidan L.,90,1.0,90.0,0.0,0,0,0,90.0
+2023,Q2,6,June,23,8,False,Computer Help,New York City,,Josephine C.,50,4.0,200.0,0.0,0,0,0,200.0
+2023,Q2,6,June,24,16,False,Computer Help,New York City,Park Slope,Allison T.,50,2.0,100.0,0.0,0,0,0,100.0
+2023,Q2,6,June,25,19,False,Photography,New York City,,Nicole A.,82,1.0,82.0,0.0,0,0,0,82.0
+2023,Q2,6,June,25,19,False,Packing & Unpacking,New York City,,Vig A.,50,1.0,50.0,5.17,10,1,0,55.17
+2023,Q2,6,June,25,19,False,Computer Help,New York City,Park Slope,Allison T.,60,1.0,60.0,0.0,0,0,0,60.0
+2023,Q2,6,June,25,21,False,Photography,"Queens, NYC",Long Island City,Sean G.,90,1.0,90.0,0.0,0,0,0,90.0
+2023,Q2,6,June,25,23,False,Photography,"Brooklyn, NYC",Park Slope,Jacqueline C.,90,1.0,90.0,0.0,0,0,0,90.0
+2023,Q2,6,June,25,23,False,Computer Help,New York City,Park Slope,Allison T.,60,1.0,60.0,0.0,0,0,0,60.0
+2023,Q2,6,June,26,26,False,Photography,New York City,,Silvia R.,90,1.0,90.0,0.0,0,0,0,90.0
+2023,Q2,6,June,26,27,False,Packing & Unpacking,"Brooklyn, NYC",Williamsburg,Stephen S.,65,1.0,65.0,0.0,0,0,0,65.0
+2023,Q2,6,June,26,28,False,Photography,"Brooklyn, NYC",Brooklyn Heights,Guy R.,125,2.0,250.0,0.0,0,0,0,250.0
+2023,Q3,7,July,28,14,False,Photography,"Manhattan, NYC",Midtown East,Eliahu M.,90,1.0,90.0,0.0,0,0,0,90.0
+2023,Q3,7,July,29,18,False,Photography,"Brooklyn, NYC",Boerum Hill,Brad H.,125,1.0,125.0,0.0,0,0,0,125.0
+2023,Q3,7,July,29,20,False,Photography,New York City,,Neville I.,90,1.0,90.0,0.0,0,0,0,90.0
+2023,Q3,7,July,30,26,False,Packing & Unpacking,"Brooklyn, NYC",Greenpoint,Parsa K.,48,2.0,96.0,0.0,0,0,0,96.0
+2023,Q3,7,July,30,27,False,Photography,New York City,,David A.,90,2.0,180.0,0.0,0,0,0,180.0
+2023,Q3,7,July,30,29,True,Packing & Unpacking,New York City,,Hannah B.,60,3.0,180.0,0.0,0,0,0,180.0
+2023,Q3,7,July,30,30,True,Photography,"Manhattan, NYC",Upper East Side,Dan H.,100,1.0,100.0,0.0,0,0,0,100.0
+2023,Q3,8,August,31,5,True,Packing & Unpacking,"Manhattan, NYC",Upper East Side,Kevin R.,48,6.0,288.0,0.0,0,0,0,288.0
+2023,Q3,8,August,32,9,False,Photography,"Manhattan, NYC",Midtown West,Allan B.,100,1.0,100.0,0.0,0,0,0,100.0
+2023,Q3,9,September,39,28,False,Event Staffing,"Cambridge, MA",,Shanti F.,48,3.5,168.0,0.0,0,0,0,168.0
+2023,Q3,9,September,39,29,False,Photography,"Cambridge, MA",,Jia Jie T.,90,1.5,135.0,0.0,0,0,0,135.0
+2023,Q4,10,October,40,3,False,Packing & Unpacking,"Cambridge, MA",,Rashard G.,70,3.5,245.0,0.0,0,0,0,245.0
+2023,Q4,11,November,45,8,False,Packing & Unpacking,New York City,,Paul Q.,47,5.5,258.5,0.0,0,0,0,258.5
+2023,Q4,11,November,46,13,False,Event Staffing,New York City,Queens,Shivani T.,39,3.0,117.0,0.0,0,0,0,117.0
+2023,Q4,11,November,47,20,False,Computer Help,"Boston, MA",,Trevor S.,50,7.0,350.0,0.0,0,0,0,350.0
+2023,Q4,11,November,47,21,False,Computer Help,"Boston, MA",,Trevor S.,61,7.0,427.0,0.0,0,0,0,427.0
+2023,Q4,11,November,47,25,True,Packing & Unpacking,"Boston, MA",,Rose G.,48,5.5,264.0,0.0,0,0,0,264.0
+2023,Q4,11,November,47,26,True,Packing & Unpacking,"Boston, MA",,Rose G.,48,8.5,408.0,0.0,0,0,0,408.0
+2023,Q4,11,November,48,30,False,Packing & Unpacking,"Boston, MA",,Alexandra C.,64,5.0,320.0,0.0,0,0,0,320.0
+2023,Q4,12,December,49,10,True,Packing & Unpacking,"Cambridge, MA",,Abram O.,58,3.0,174.0,0.0,0,0,0,174.0
+2023,Q4,12,December,50,12,False,Packing & Unpacking,"Brookline, MA",,Laura S.,58,3.5,203.0,20.96,10,1,0,223.96
+2023,Q4,12,December,50,13,False,Packing & Unpacking,"Boston, MA",,Julia R.,60,4.0,240.0,0.0,0,0,0,240.0
+2023,Q4,12,December,50,15,False,Event Staffing,"Boston, MA",,Caitlin H.,48,7.0,336.0,0.0,0,0,0,336.0
+2023,Q4,12,December,50,16,True,Photography,"Boston, MA",,Alex S.,105,1.0,105.0,10.84,10,1,0,115.84
+2023,Q4,12,December,50,16,True,Photography,"Boston, MA",,Xiang Y.,100,1.0,100.0,0.0,0,0,0,100.0
+2023,Q4,12,December,51,19,False,Packing & Unpacking,"Brookline, MA",,Julia S.,58,5.75,333.5,0.0,0,0,0,333.5
+2023,Q4,12,December,51,19,False,Computer Help,New York City,Leather District,Trevor S.,60,8.0,480.0,49.56,10,1,0,529.56
+2023,Q4,12,December,51,21,False,Packing & Unpacking,"Brookline, MA",,Tomer L.,58,5.0,290.0,0.0,0,0,0,290.0
+2023,Q4,12,December,51,23,True,Packing & Unpacking,"Boston, MA",,Hilary S.,65,4.5,292.5,0.0,0,0,0,292.5
+2024,Q1,1,January,1,3,False,Photography,"Boston, MA",,Daniel L.,120,1.0,120.0,0.0,0,0,0,120.0
+2024,Q1,1,January,1,4,False,Photography,"Boston, MA",,Matthew M.,120,1.0,120.0,0.0,0,0,0,120.0
+2024,Q1,1,January,2,8,False,Packing & Unpacking,"Boston, MA",,Daniel S.,60,2.0,120.0,0.0,0,0,0,120.0
+2024,Q1,1,January,2,8,False,Packing & Unpacking,"Boston, MA",,Claudia B.,60,2.0,120.0,0.0,0,0,0,120.0
+2024,Q1,2,February,8,25,True,Event Staffing,"Boston, MA",,Leslie E.,48,4.25,204.0,42.12,21,1,1,246.12
+2024,Q1,2,February,9,29,False,Photography,"Boston, MA",,Andrew L.,105,1.0,105.0,0.0,0,0,0,105.0
+2024,Q1,3,March,9,1,False,Photography,"Brookline, MA",,Martha Z.,105,1.0,105.0,0.0,0,0,0,105.0
+2024,Q1,3,March,10,10,True,Organization,New York City,Andover,Alice D.,70,2.0,140.0,14.46,10,1,0,154.46
+2024,Q1,3,March,11,16,True,Packing & Unpacking,New York City,Wilmington,Aaron B.,70,6.0,420.0,0.0,0,0,0,420.0
+2024,Q1,3,March,12,20,False,Photography,New York City,North Andover,Thomas K.,130,2.0,260.0,0.0,0,0,0,260.0
+2024,Q1,3,March,13,26,False,Photography,New York City,Andover,Elizabeth G.,115,2.0,230.0,0.0,0,0,0,230.0
+2024,Q2,4,April,14,7,True,Packing & Unpacking,"Malden, MA",,Jawadd H.,66,3.0,198.0,30.66,15,1,1,228.66
+2024,Q2,4,April,16,16,False,Photography,"Boston, MA",,Brian R.,95,2.0,190.0,0.0,0,0,0,190.0
+2024,Q2,4,April,18,29,False,Event Staffing,"Cambridge, MA",,Shawna E.,50,4.0,200.0,0.0,0,0,0,200.0
+2024,Q2,4,April,18,29,False,Photography,"Boston, MA",,Anna D.,120,2.0,240.0,0.0,0,0,0,240.0
+2024,Q2,5,May,19,7,False,Computer Help,"Watertown, MA",Watertown,Andrew B.,55,2.0,110.0,11.36,10,1,0,121.36
+2024,Q2,5,May,19,9,False,Packing & Unpacking,"Cambridge, MA",,Sankaran G.,50,3.0,150.0,0.0,0,0,0,150.0
+2024,Q2,5,May,20,15,False,Photography,"Cambridge, MA",,Alex T.,95,2.0,190.0,0.0,0,0,0,190.0
+2024,Q2,5,May,20,15,False,Packing & Unpacking,"Cambridge, MA",,Claire E.,50,2.0,100.0,0.0,0,0,0,100.0
+2024,Q2,5,May,20,16,False,Photography,"Boston, MA",,Veonica E.,95,2.0,190.0,0.0,0,0,0,190.0
+2024,Q2,5,May,21,20,False,Packing & Unpacking,"Somerville, MA",,Cornelia S.,70,5.75,402.5,0.0,0,0,0,402.5
+2024,Q2,5,May,21,21,False,Packing & Unpacking,New York City,Teele Square,Cornelia S.,70,4.25,297.5,0.0,0,0,0,297.5
+2024,Q2,5,May,22,28,False,Organization,"Cambridge, MA",,Maura R.,70,3.25,227.5,46.97,21,1,1,274.47
+2024,Q2,5,May,22,29,False,Photography,"Boston, MA",,Dalal A.,130,2.0,260.0,0.0,0,0,0,260.0
+2024,Q2,5,May,22,30,False,Photography,"Watertown, MA",Watertown,Barrie B.,130,2.0,260.0,0.0,0,0,0,260.0
+2024,Q2,5,May,22,31,False,Organization,"Brookline, MA",,Electra W.,70,2.0,140.0,0.0,0,0,0,140.0
+2024,Q2,5,May,22,31,False,Organization,"Cambridge, MA",,Maura R.,70,2.0,140.0,0.0,0,0,0,140.0
+2024,Q2,6,June,22,1,True,Event Staffing,"Brookline, MA",,Priyanka B.,65,3.5,227.5,0.0,0,0,0,227.5
+2024,Q2,6,June,22,1,True,Packing & Unpacking,"Cambridge, MA",,Kazan K.,75,2.25,168.75,0.0,0,0,0,168.75
+2024,Q2,6,June,22,2,True,Event Staffing,"Cambridge, MA",,Scott S.,65,4.0,260.0,67.1,26,1,1,327.1
+2024,Q2,6,June,24,11,False,Packing & Unpacking,"Cambridge, MA",,Jean F.,75,4.0,300.0,0.0,0,0,0,300.0
+2024,Q2,6,June,24,13,False,Packing & Unpacking,"Cambridge, MA",,Jean F.,75,6.25,468.75,0.0,0,0,0,468.75
+2024,Q2,6,June,24,15,True,Computer Help,"Cambridge, MA",,Noga C.,70,2.75,192.5,0.0,0,0,0,192.5
+2024,Q2,6,June,24,15,True,Packing & Unpacking,New York City,Arlington,Lucy L.,75,3.25,243.75,0.0,0,0,0,243.75
+2024,Q2,6,June,25,17,False,Packing & Unpacking,"Cambridge, MA",,Trey S.,75,3.25,243.75,0.0,0,0,0,243.75
+2024,Q3,7,July,27,6,True,Packing & Unpacking,"Boston, MA",,Cassandra A.,58,2.5,145.0,29.94,21,1,1,174.94
+2024,Q3,7,July,28,8,False,Packing & Unpacking,"Newton, MA",,Sheraz S.,58,4.0,232.0,59.88,26,1,1,291.88
+2024,Q3,7,July,28,9,False,Organization,"Cambridge, MA",,Shashi N.,65,3.25,211.25,0.0,0,0,0,211.25
+2024,Q3,7,July,28,14,True,Organization,New York City,Winchester,Gabriela M.,65,4.0,260.0,0.0,0,0,0,260.0
+2024,Q3,7,July,29,17,False,Packing & Unpacking,"Brookline, MA",,Jonathan T.,65,3.0,195.0,30.2,15,1,1,225.2
+2024,Q3,7,July,30,24,False,Photography,"Cambridge, MA",,Noura M.,125,2.0,250.0,0.0,0,0,0,250.0
+2024,Q3,7,July,31,29,False,Packing & Unpacking,"Somerville, MA",,Pranjal V.,65,5.0,325.0,0.0,0,0,0,325.0
+2024,Q3,7,July,31,31,False,Packing & Unpacking,"Brookline, MA",,Philip B.,65,4.0,260.0,67.1,26,1,1,327.1
+2024,Q3,8,August,32,8,False,Packing & Unpacking,"Boston, MA",,Carlos M.,50,3.25,162.5,33.56,21,1,1,196.06
+2024,Q3,8,August,32,9,False,Photography,"Boston, MA",,Laundry H.,95,3.5,332.5,0.0,0,0,0,332.5
+2024,Q3,8,August,32,10,True,Packing & Unpacking,"Brookline, MA",,Hilary P.,60,2.0,120.0,30.97,26,1,1,150.97
+2024,Q3,8,August,32,11,True,Packing & Unpacking,"Boston, MA",,Jack D.,62,1.5,93.0,0.0,0,0,0,93.0
+2024,Q3,8,August,33,14,False,Packing & Unpacking,"Medford, MA",,Arjun M.,68,2.0,136.0,0.0,0,0,0,136.0
+2024,Q3,8,August,33,18,True,Packing & Unpacking,"Boston, MA",,Mina B.,50,1.0,50.0,0.0,0,0,0,50.0
+2024,Q3,8,August,33,18,True,Organization,"Malden, MA",,Jessica C.,68,3.0,204.0,31.59,15,1,1,235.59
+2024,Q3,8,August,34,20,False,Organization,"Brookline, MA",,Jeff B.,63,2.0,126.0,0.0,0,0,0,126.0
+2024,Q3,8,August,34,21,False,Packing & Unpacking,"Newton, MA",,Emma C.,63,2.0,126.0,0.0,0,0,0,289.0
+2024,Q3,8,August,34,22,False,Packing & Unpacking,"Somerville, MA",,Michael E.,70,2.25,157.5,16.0,10,1,0,173.5
+2024,Q3,8,August,34,22,False,Packing & Unpacking,"Medford, MA",,Ananya K.,55,3.0,165.0,0.0,0,0,0,165.0
+2024,Q3,8,August,34,23,False,Packing & Unpacking,"Cambridge, MA",,Michelle T.,68,3.0,204.0,0.0,0,0,0,204.0
+2024,Q3,8,August,34,24,True,Event Staffing,"Woburn, MA",,Kinsey S.,65,4.5,292.5,45.3,15,1,1,337.8
+2024,Q3,8,August,34,25,True,Packing & Unpacking,"Cambridge, MA",,Joey B.,70,2.5,175.0,27.1,15,1,1,202.1
+2024,Q3,8,August,35,29,False,Errands,"Boston, MA",,Kristina H.,40,2.0,80.0,0.0,0,0,0,80.0
+2024,Q3,8,August,35,29,False,Organization,"Newton, MA",,Anne C.,68,4.0,272.0,0.0,0,0,0,272.0
+2024,Q3,8,August,35,30,False,Organization,"Somerville, MA",,Josie E.,70,1.5,105.0,0.0,0,0,0,105.0
+2024,Q3,8,August,35,30,False,Packing & Unpacking,"Boston, MA",,Julia G.,70,2.5,175.0,45.17,26,1,1,220.17
+2024,Q3,9,September,35,1,True,Packing & Unpacking,New York City,Arlington,John B.,70,2.0,140.0,14.46,10,1,0,154.46
+2024,Q3,9,September,36,6,False,Packing & Unpacking,"Watertown, MA",Watertown,Rose B.,70,7.0,490.0,101.17,21,1,1,591.17
+2024,Q3,9,September,38,18,False,Event Staffing,"Cambridge, MA",,Kyle K.,50,2.5,125.0,0.0,0,0,0,163.0
+2024,Q3,9,September,38,22,True,Event Staffing,"Cambridge, MA",,Shanti F.,60,3.75,225.0,0.0,0,0,0,225.0
+2024,Q3,9,September,38,22,True,Packing & Unpacking,"Somerville, MA",,Hannahx A.,45,1.0,45.0,0.0,0,0,0,45.0
+2024,Q3,9,September,39,23,False,Computer Help,New York City,North End,Philip B.,60,2.0,120.0,24.78,21,1,1,144.78
+2024,Q3,9,September,39,25,False,Event Staffing,"Boston, MA",,Chi T.,50,7.0,350.0,0.0,0,0,0,350.0
+2024,Q3,9,September,39,27,False,Packing & Unpacking,"Boston, MA",,Sam G.,45,3.0,135.0,0.0,0,0,0,135.0
+2024,Q4,10,October,40,4,False,Errands,New York City,Andover,Robert B.,45,2.0,90.0,0.0,0,0,0,90.0
+2024,Q4,10,October,41,9,False,Packing & Unpacking,New York City,Wilmington,Chelsea T.,65,2.5,162.5,25.17,15,1,1,187.67
+2024,Q4,10,October,41,10,False,Photography,"Newton, MA",,Edwin L.,75,4.0,300.0,0.0,0,0,0,300.0
+2024,Q4,10,October,41,11,False,Packing & Unpacking,New York City,Wilmington,Chelsea T.,60,2.5,150.0,23.23,15,1,1,173.23
+2024,Q4,10,October,42,16,False,Computer Help,"Boston, MA",,Kim M.,60,2.0,120.0,24.78,21,1,1,144.78
+2024,Q4,10,October,42,16,False,Organization,"Brookline, MA",,Erin Z.,60,2.75,165.0,0.0,0,0,0,165.0
+2024,Q4,10,October,42,19,True,Event Staffing,"Somerville, MA",,David B.,50,5.25,262.5,0.0,0,0,0,262.5
+2024,Q4,10,October,42,20,True,Packing & Unpacking,"Cambridge, MA",,K' April B.,60,2.0,120.0,30.0,25,1,1,150.0
+2024,Q4,10,October,42,20,True,Event Staffing,"Cambridge, MA",,John H.,50,2.0,100.0,0.0,0,0,0,100.0
+2024,Q4,10,October,43,23,False,Organization,"Boston, MA",,Kristen H.,60,4.0,240.0,61.94,26,1,1,301.94
+2024,Q4,10,October,43,27,True,Photography,"Boston, MA",,Jordan D.,95,2.5,237.5,0.0,0,0,0,237.5
+2024,Q4,10,October,44,30,False,Errands,"Somerville, MA",,Corinne L.,35,2.0,70.0,0.0,0,0,0,70.0
+2024,Q4,11,November,44,1,False,Organization,"Cambridge, MA",,Mike C.,60,6.0,360.0,74.33,21,1,1,434.33
+2024,Q4,11,November,44,3,True,Packing & Unpacking,New York City,Cambridgeport,Scott S.,65,4.0,260.0,67.1,26,1,1,327.1
+2024,Q4,11,November,45,5,False,Errands,"Boston, MA",,Gina L.,36,1.5,54.0,0.0,0,0,0,54.0
+2024,Q4,11,November,45,8,False,Packing & Unpacking,"Boston, MA",,Michael R.,65,4.0,260.0,0.0,0,0,0,260.0
+2024,Q4,11,November,45,10,True,Event Staffing,"Medford, MA",,Saif S.,45,3.0,135.0,0.0,0,0,0,135.0
+2024,Q4,11,November,46,13,False,Packing & Unpacking,"Newton, MA",,Erin H.,65,4.5,292.5,45.0,15,1,1,337.5
+2024,Q4,11,November,46,14,False,Errands,"Watertown, MA",Watertown,Samantha R.,36,1.0,36.0,0.0,0,0,0,36.0
+2024,Q4,11,November,46,15,False,Errands,"Watertown, MA",Watertown,Samantha R.,36,1.0,36.0,0.0,0,0,0,36.0
+2024,Q4,11,November,46,15,False,Photography,"Boston, MA",,Kiersten B.,115,2.0,230.0,0.0,0,0,0,230.0
+2024,Q4,11,November,46,16,True,Errands,"Watertown, MA",Watertown,Samantha R.,36,1.0,36.0,0.0,0,0,0,36.0
+2024,Q4,11,November,46,17,True,Packing & Unpacking,"Brookline, MA",,Yaniv S.,65,3.0,195.0,0.0,0,0,0,195.0
+2024,Q4,11,November,46,17,True,Errands,"Watertown, MA",Watertown,Samantha R.,36,1.0,36.0,0.0,0,0,0,36.0
+2024,Q4,11,November,47,20,False,Photography,"Medford, MA",,Julia B.,125,1.0,125.0,0.0,0,0,0,125.0
+2024,Q4,11,November,48,25,False,Packing & Unpacking,"Somerville, MA",,Kate G.,55,3.0,165.0,17.04,10,1,0,182.04
+2024,Q4,12,December,49,3,False,Computer Help,New York City,Melrose,Maria V.,60,2.0,120.0,0.0,0,0,0,120.0
+2024,Q4,12,December,49,8,True,Packing & Unpacking,"Boston, MA",,Thomas M.,55,2.5,137.5,14.2,10,1,0,151.7
+2024,Q4,12,December,50,11,False,Errands,"Brookline, MA",,Martin B.,45,2.0,90.0,0.0,0,0,0,90.0
+2024,Q4,12,December,50,14,True,Event Staffing,New York City,Winchester,Nick K.,50,3.5,175.0,0.0,0,0,0,175.0
+2024,Q4,12,December,51,20,False,Photography,"Boston, MA",,Isabel A.,73,3.0,219.0,0.0,0,0,0,219.0
+2024,Q4,12,December,51,22,True,Event Staffing,New York City,West Cambridge,Shannon E.,50,5.0,250.0,0.0,0,0,0,250.0
+2024,Q4,12,December,52,28,True,Packing & Unpacking,"Cambridge, MA",,Andrew M.,50,5.0,250.0,0.0,0,0,0,250.0
+2024,Q4,12,December,52,29,True,Packing & Unpacking,New York City,Melrose,Corinne G.,50,4.0,200.0,51.62,26,1,1,251.62
+2024,Q4,12,December,1,30,False,Computer Help,"Brookline, MA",,Kristine K.,65,3.25,211.25,0.0,0,0,0,211.25
+2024,Q4,12,December,1,30,False,Photography,New York City,Manchester-by-the-Sea,Cooper N.,75,4.0,300.0,46.46,15,1,1,346.46
+2025,Q1,1,January,1,3,False,Packing & Unpacking,"Boston, MA",,Jj D.,66,2.25,148.5,38.33,26,1,1,186.83
+2025,Q1,1,January,2,8,False,Organization,"Cambridge, MA",,Ash K.,40,3.5,140.0,0.0,0,0,0,140.0
+2025,Q1,1,January,2,10,False,Personal Assistant,New York City,Beverly,Sabrina S.,37,2.0,74.0,0.0,0,0,0,224.95
+2025,Q1,1,January,2,11,True,Packing & Unpacking,"Boston, MA",,Samantha J.,60,2.5,150.0,0.0,0,0,0,150.0
+2025,Q1,1,January,3,13,False,Organization,"Waltham, MA",,Terrie H.,52,2.0,104.0,21.48,21,1,1,125.48
+2025,Q1,1,January,3,17,False,Packing & Unpacking,New York City,Revere,Nihaal P.,64,6.0,384.0,0.0,0,0,0,384.0
+2025,Q1,1,January,3,18,True,Packing & Unpacking,"Newton, MA",,Doris D.,60,4.0,240.0,0.0,0,0,0,240.0
+2025,Q1,1,January,3,19,True,Personal Assistant,"Cambridge, MA",,Shashi N.,45,3.25,146.25,0.0,0,0,0,146.25
+2025,Q1,1,January,4,23,False,Packing & Unpacking,"Boston, MA",,Sheila W.,60,3.0,180.0,46.46,26,1,1,226.46
+2025,Q1,1,January,4,24,False,Computer Help,"Waltham, MA",,Elizabeth C.,40,2.0,80.0,0.0,0,0,0,80.0
+2025,Q1,1,January,5,28,False,Organization,"Somerville, MA",,Kathy Z.,60,4.0,240.0,49.56,21,1,1,289.56
+2025,Q1,1,January,5,31,False,Event Staffing,"Waltham, MA",,Dora F.,50,1.0,50.0,10.33,21,1,1,60.33
+2025,Q1,2,February,5,1,True,Event Staffing,"Somerville, MA",,Scott H.,50,4.0,200.0,0.0,0,0,0,200.0
+2025,Q1,2,February,5,2,True,Packing & Unpacking,"Brooklyn, NYC",Downtown,Brendan C.,60,6.0,360.0,0.0,0,0,0,360.0
+2025,Q1,2,February,5,2,True,Organization,"Woburn, MA",,Shabeen S.,60,1.0,60.0,0.0,0,0,0,60.0
+2025,Q1,2,February,6,7,False,Computer Help,"Brookline, MA",,Colette K.,50,2.75,137.5,14.2,10,1,0,151.7
+2025,Q1,2,February,6,7,False,Packing & Unpacking,New York City,,Joelle S.,60,4.0,240.0,37.17,15,1,1,277.17
+2025,Q1,2,February,7,14,False,Packing & Unpacking,"Boston, MA",,Brendan C.,60,4.25,255.0,0.0,0,0,0,255.0
+2025,Q1,2,February,8,20,False,Personal Assistant,"Boston, MA",,Duckbill C.,50,1.0,50.0,0.0,0,0,0,50.0
+2025,Q1,3,March,10,4,False,Packing & Unpacking,"Nahant, MA",,Claire D.,65,3.5,227.5,35.24,15,1,1,262.74
+2025,Q1,3,March,10,5,False,Packing & Unpacking,"Nahant, MA",,Claire D.,65,2.0,130.0,26.84,21,1,1,156.84
+2025,Q1,3,March,10,5,False,Personal Assistant,"Boston, MA",,Teresa C.,50,3.0,150.0,0.0,0,0,0,180.0
+2025,Q1,3,March,10,7,False,Photography,"Boston, MA",,Andrew V.,110,1.0,110.0,0.0,0,0,0,110.0
+2025,Q1,3,March,11,11,False,Personal Assistant,New York City,,Claire C.,50,4.0,200.0,0.0,0,0,0,200.0
+2025,Q1,3,March,11,13,False,Packing & Unpacking,"Boston, MA",,Leann L.,60,4.5,270.0,55.76,21,1,1,363.76
+2025,Q1,3,March,12,19,False,Packing & Unpacking,"Boston, MA",,Leann L.,60,6.25,375.0,77.0,21,1,1,482.0
+2025,Q1,3,March,12,22,True,Packing & Unpacking,"Malden, MA",,Sarah D.,60,3.0,180.0,27.0,15,1,0,207.0
+2025,Q1,3,March,13,24,False,Computer Help,"Cambridge, MA",,Cathy M.,75,2.0,150.0,0.0,0,0,0,150.0
+2025,Q1,3,March,13,24,False,Packing & Unpacking,"Somerville, MA",,Asseret F.,65,4.5,292.5,0.0,0,0,0,292.5
+2025,Q1,3,March,13,25,False,Packing & Unpacking,"Boston, MA",,Amanda A.,65,3.0,195.0,0.0,0,0,0,195.0
+2025,Q1,3,March,13,30,True,Packing & Unpacking,"Somerville, MA",,Alan M.,67,2.5,167.5,17.3,10,1,0,184.8
+2025,Q1,3,March,14,31,False,Computer Help,"Boston, MA",,Grace C.,75,3.5,262.5,0.0,0,0,0,262.5
+2025,Q2,4,April,14,1,False,Computer Help,"Boston, MA",,Barbara L.,75,3.25,243.75,0.0,0,0,0,270.75
+2025,Q2,4,April,14,3,False,Computer Help,"Newton, MA",,Bernard E.,75,2.75,206.25,0.0,0,0,0,206.25
+2025,Q2,4,April,14,4,False,Packing & Unpacking,"Boston, MA",,Shuheng L.,67,3.0,201.0,20.0,10,1,0,225.0
+2025,Q2,4,April,16,16,False,Packing & Unpacking,"Boston, MA",,Angela K.,57,2.0,114.0,23.54,21,1,1,137.54
+2025,Q2,4,April,16,16,False,Computer Help,"Boston, MA",,Darren F.,60,2.25,135.0,0.0,0,0,0,135.0
+2025,Q2,4,April,16,19,True,Packing & Unpacking,"Brookline, MA",,Tammy H.,60,5.0,300.0,46.46,15,1,1,346.46
+2025,Q2,4,April,17,21,False,Photography,"Cambridge, MA",,Katarina B.,130,4.25,552.5,0.0,0,0,0,652.5
+2025,Q2,4,April,17,22,False,Packing & Unpacking,New York City,,Justin H.,62,3.0,186.0,0.0,0,0,0,204.04
+2025,Q2,4,April,17,23,False,Packing & Unpacking,"Boston, MA",,Michael C.,62,2.0,124.0,0.0,0,0,0,124.0
+2025,Q2,4,April,17,25,False,Packing & Unpacking,"Newton, MA",,Charles L.,62,3.0,186.0,0.0,0,0,0,186.0
+2025,Q2,4,April,17,25,False,Packing & Unpacking,"Boston, MA",,Sonali V.,62,3.0,186.0,19.21,10,1,0,205.21
+2025,Q2,4,April,17,26,True,Photography,New York City,,Street / West Broadway Liz H.,130,2.0,260.0,0.0,0,0,0,260.0
+2025,Q2,4,April,17,27,True,Packing & Unpacking,"Cambridge, MA",,Jeff R.,62,2.0,124.0,19.2,15,1,1,143.2
+2025,Q2,4,April,17,27,True,Photography,New York City,,Street / West Broadway Liz H.,130,2.0,260.0,0.0,0,0,0,260.0
+2025,Q2,4,April,17,27,True,Event Staffing,"Boston, MA",,Marcela L.,50,4.5,225.0,0.0,0,0,0,225.0
+2025,Q2,4,April,18,28,False,Packing & Unpacking,New York City,,Dana C.,62,6.0,372.0,76.81,21,1,1,448.81
+2025,Q2,5,May,18,1,False,Event Staffing,"Boston, MA",,Josh L.,50,4.0,200.0,0.0,0,0,0,216.0
+2025,Q2,5,May,18,2,False,Packing & Unpacking,"Cambridge, MA",,Matheo D.,68,2.0,136.0,0.0,0,0,0,136.0
+2025,Q2,5,May,19,7,False,Packing & Unpacking,"Boston, MA",,Dan Y.,68,2.25,153.0,0.0,0,0,0,153.0
+2025,Q2,5,May,19,7,False,Packing & Unpacking,"Cambridge, MA",,Jean S.,68,3.0,204.0,0.0,0,0,0,204.0
+2025,Q2,5,May,19,10,True,Packing & Unpacking,"Boston, MA",,Vasundhara P.,68,3.0,204.0,0.0,0,0,0,212.7
+2025,Q2,5,May,19,11,True,Packing & Unpacking,"Cambridge, MA",,Jean S.,90,1.75,157.5,0.0,0,0,0,157.5
+2025,Q2,5,May,20,17,True,Photography,"Boston, MA",,Karim K.,130,1.0,130.0,0.0,0,0,0,130.0
+2025,Q2,5,May,21,23,False,Packing & Unpacking,"Boston, MA",,Katelyn B.,60,3.25,195.0,0.0,0,0,0,195.0
+2025,Q2,5,May,21,25,True,Packing & Unpacking,"Cambridge, MA",,Simmons D.,70,3.5,245.0,0.0,0,0,0,245.0
+2025,Q2,5,May,22,26,False,Packing & Unpacking,"Malden, MA",,Chelsea R.,60,3.0,180.0,0.0,0,0,0,180.0
+2025,Q2,5,May,22,27,False,Packing & Unpacking,"Cambridge, MA",,Thanadol C.,70,2.0,140.0,0.0,0,0,0,140.0
+2025,Q2,5,May,22,29,False,Event Staffing,"Cambridge, MA",,Kristin N.,70,4.0,280.0,0.0,0,0,0,280.0
+2025,Q2,6,June,23,4,False,Photography,"Cambridge, MA",,Panashe C.,175,1.75,306.25,0.0,0,0,0,306.25
+2025,Q2,6,June,24,11,False,Packing & Unpacking,"Watertown, MA",,Youssef M.,50,3.0,150.0,0.0,0,0,0,150.0
+2025,Q2,6,June,24,11,False,Packing & Unpacking,"Boston, MA",,Amanda K.,62,2.5,155.0,0.0,0,0,0,155.0
+2025,Q2,6,June,25,17,False,Photography,"Boston, MA",,Angela A.,175,2.0,350.0,0.0,0,0,0,350.0
+2025,Q2,6,June,25,18,False,Packing & Unpacking,"Boston, MA",,Sheila W.,50,3.0,150.0,38.72,26,1,1,188.72
+2025,Q2,6,June,25,18,False,Packing & Unpacking,"Somerville, MA",,Rachel K.,50,3.0,150.0,0.0,0,0,0,150.0
+2025,Q2,6,June,25,19,False,Packing & Unpacking,"Boston, MA",,Seli B.,63,3.0,189.0,0.0,0,0,0,189.0
+2025,Q2,6,June,25,20,False,Packing & Unpacking,New York City,,Matthew K.,50,5.5,275.0,56.79,21,1,1,331.79
+2025,Q2,6,June,25,20,False,Computer Help,"Newton, MA",,Monique B.,76,3.0,228.0,47.08,21,1,1,275.08
+2025,Q2,6,June,25,21,True,Computer Help,"Boston, MA",,Sarah O.,60,2.0,120.0,0.0,0,0,0,120.0
+2025,Q2,6,June,25,22,True,Packing & Unpacking,"Boston, MA",,Talia P.,70,3.0,210.0,0.0,0,0,0,210.0
+2025,Q2,6,June,26,24,False,Packing & Unpacking,"Cambridge, MA",,Xiaomeng H.,70,2.0,140.0,0.0,0,0,0,140.0
+2025,Q3,7,July,28,9,False,Packing & Unpacking,"Boston, MA",,Noah R.,63,3.0,189.0,0.0,0,0,0,189.0
+2025,Q3,7,July,28,10,False,Packing & Unpacking,New York City,,Judy K.,63,3.0,189.0,0.0,0,0,0,189.0
+2025,Q3,7,July,28,12,True,Event Staffing,New York City,,John H.,70,5.75,402.5,62.34,15,1,1,464.84
+2025,Q3,7,July,29,16,False,Packing & Unpacking,New York City,Swampscott,Kathleen M.,50,4.0,200.0,20.65,10,1,0,220.65
+2025,Q3,7,July,29,17,False,Packing & Unpacking,"Boston, MA",,Sharon J.,50,2.0,100.0,0.0,0,0,0,100.0
+2025,Q3,7,July,29,17,False,Packing & Unpacking,New York City,,Jocelyn L.,50,4.0,200.0,0.0,0,0,0,200.0
+2025,Q3,7,July,30,21,False,Packing & Unpacking,"Brookline, MA",,Jieun S.,60,2.0,120.0,0.0,0,0,0,120.0
+2025,Q3,7,July,30,21,False,Packing & Unpacking,"Somerville, MA",,Emily F.,50,2.75,137.5,28.4,21,1,1,165.9
+2025,Q3,7,July,30,22,False,Packing & Unpacking,New York City,,Claudia N.,64,2.0,128.0,13.22,10,1,0,141.22
+2025,Q3,7,July,30,24,False,Packing & Unpacking,"Boston, MA",,Trish R.,64,4.0,256.0,26.0,10,1,0,282.0
+2025,Q3,7,July,30,27,True,Packing & Unpacking,"Boston, MA",,Daniel C.,60,3.5,210.0,0.0,0,0,0,210.0
+2025,Q3,7,July,31,28,False,Packing & Unpacking,"Boston, MA",,Parina C.,70,3.0,210.0,0.0,0,0,0,210.0
+2025,Q3,8,August,31,2,True,Event Staffing,"Newton, MA",,Lexi M.,60,5.0,300.0,0.0,0,0,0,300.0
+2025,Q3,8,August,31,3,True,Packing & Unpacking,"Somerville, MA",,Katie C.,70,4.0,280.0,0.0,0,0,0,280.0
+2025,Q3,8,August,32,6,False,Packing & Unpacking,"Brookline, MA",,Thea B.,70,2.5,175.0,18.07,10,1,0,193.07
+2025,Q3,8,August,32,7,False,Packing & Unpacking,"Boston, MA",,Nick L.,85,3.0,255.0,0.0,0,0,0,255.0
+2025,Q3,8,August,32,8,False,Packing & Unpacking,"Waltham, MA",,Ronald L.,70,3.0,210.0,43.37,21,1,1,253.37
+2025,Q3,8,August,32,9,True,Packing & Unpacking,"Cambridge, MA",,John M.,70,3.0,210.0,0.0,0,0,0,210.0
+2025,Q3,8,August,33,11,False,Computer Help,"Brooklyn, NYC",,Darren F.,80,2.0,160.0,0.0,0,0,0,160.0
+2025,Q3,8,August,33,15,False,Packing & Unpacking,"Malden, MA",,Jeffrey M.,85,4.0,340.0,35.11,10,1,0,375.11
+2025,Q3,8,August,33,16,True,Packing & Unpacking,"Boston, MA",,Kevin V.,70,4.0,280.0,43.37,15,1,1,323.37
+2025,Q3,8,August,34,19,False,Packing & Unpacking,"Boston, MA",,Jennifer P.,85,7.25,616.25,95.44,15,1,1,711.69
+2025,Q3,8,August,34,21,False,Packing & Unpacking,"Manhattan, NYC",,Jennifer P.,85,4.0,340.0,0.0,0,0,0,340.0
+2025,Q3,8,August,34,23,True,Packing & Unpacking,"Boston, MA",,Brendan C.,75,2.5,187.5,0.0,0,0,0,187.5
+2025,Q3,8,August,34,24,True,Packing & Unpacking,"Medford, MA",,Patricia W.,78,2.0,156.0,32.22,21,1,1,188.22
+2025,Q3,8,August,35,25,False,Packing & Unpacking,"Newton, MA",,Elizabeth Z.,78,2.0,156.0,0.0,0,0,0,156.0
+2025,Q3,8,August,35,27,False,Packing & Unpacking,"Boston, MA",,Sandy A.,80,2.0,160.0,24.78,15,1,1,184.78
+2025,Q3,8,August,35,30,True,Packing & Unpacking,"Somerville, MA",,Zhuoya Z.,82,2.0,164.0,0.0,0,0,0,164.0
+2025,Q3,9,September,36,1,False,Packing & Unpacking,"Cambridge, MA",,Zhuoya Z.,70,3.0,210.0,0.0,0,0,0,210.0
+2025,Q3,9,September,36,2,False,Packing & Unpacking,"Boston, MA",,Yasmeen R.,75,2.0,150.0,0.0,0,0,0,150.0
+2025,Q3,9,September,36,3,False,Packing & Unpacking,"Woburn, MA",,Kirsten W.,75,2.0,150.0,0.0,0,0,0,150.0
+2025,Q3,9,September,36,3,False,Packing & Unpacking,"Boston, MA",,Andrew A.,82,2.75,225.5,0.0,0,0,0,225.5
+2025,Q3,9,September,36,4,False,Packing & Unpacking,"Brookline, MA",,Ruthie V.,78,2.75,214.5,44.3,21,1,1,258.8
+2025,Q3,9,September,36,5,False,Packing & Unpacking,New York City,,Kirsten W.,80,2.0,160.0,0.0,0,0,0,160.0
+2025,Q3,9,September,36,6,True,Packing & Unpacking,"Cambridge, MA",,Julie B.,90,3.0,270.0,0.0,0,0,0,270.0
+2025,Q3,9,September,36,6,True,Event Staffing,"Newton, MA",,Brian C.,75,4.0,300.0,30.98,10,1,0,330.98
+2025,Q3,9,September,37,9,False,Packing & Unpacking,"Brookline, MA",,Palak J.,78,2.0,156.0,40.27,26,1,1,196.27
+2025,Q3,9,September,37,13,True,Packing & Unpacking,"Boston, MA",,Denise T.,82,3.0,246.0,0.0,0,0,0,246.0
+2025,Q3,9,September,39,27,True,Event Staffing,New York City,,Kelsey C.,75,3.25,243.75,0.0,0,0,0,243.75
+2025,Q3,9,September,39,27,True,Event Staffing,"Boston, MA",,Tim M.,80,3.25,260.0,0.0,0,0,0,302.0
+2025,Q4,10,October,40,1,False,Packing & Unpacking,New York City,,Jen L.,65,2.5,162.5,0.0,0,0,0,162.5
+2025,Q4,10,October,40,1,False,Packing & Unpacking,"Boston, MA",,Joe R.,70,4.0,280.0,43.36,15,1,1,323.36
+2025,Q4,10,October,43,21,False,Event Staffing,"Cambridge, MA",,Vincent P.,70,3.0,210.0,0.0,0,0,0,210.0
+2025,Q4,10,October,43,24,False,Photography,"Newton, MA",,Jim A.,100,2.5,250.0,0.0,0,0,0,250.0
+2025,Q4,10,October,43,26,True,Photography,"Boston, MA",,Benjamin C.,100,1.0,100.0,0.0,0,0,0,100.0
+2025,Q4,10,October,43,26,True,Packing & Unpacking,"Boston, MA",,Pierce G.,70,3.0,210.0,0.0,0,0,0,210.0
+2025,Q4,10,October,44,27,False,Packing & Unpacking,"Boston, MA",,Eri S.,70,3.0,210.0,0.0,0,0,0,210.0
+2025,Q4,11,November,44,2,True,Computer Help,"Nahant, MA",,Katherine J.,60,1.0,60.0,0.0,0,0,0,60.0
+2025,Q4,11,November,45,4,False,Computer Help,"Nahant, MA",,Katherine J.,60,3.0,180.0,0.0,0,0,0,180.0
+2025,Q4,11,November,45,5,False,Packing & Unpacking,New York City,,Rebecca V.,60,2.5,150.0,0.0,0,0,0,150.0
+2025,Q4,11,November,46,14,False,Computer Help,"Boston, MA",,Scott S.,65,4.5,292.5,82.63,28,1,1,375.13
+2025,Q4,11,November,46,16,True,Photography,"Boston, MA",,Todd H.,110,2.0,220.0,0.0,0,0,0,220.0
