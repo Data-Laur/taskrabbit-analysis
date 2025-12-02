@@ -8,7 +8,7 @@ Analysis of 4 years of personal TaskRabbit earnings data to optimize gig economy
 2. What pricing and client selection strategies maximize gig economy profitability?
 
 ## Project Status
-🚧 In Progress - Currently working on data cleaning
+🚧 In Progress - Currently working on visualizations and volatility analysis
 
 ## Data
 - **Time Period:** 2022-2025
