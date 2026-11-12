@@ -37,8 +37,7 @@ taskrabbit-analysis/
 │   ├── raw/              # Original CSV files
 │   └── processed/        # Cleaned datasets
 ├── notebooks/            # Jupyter analysis notebooks
-├── visualizations/       # Charts and dashboards
-└── presentations/        # Slide decks
+└──visualizations/       # Charts and dashboards
 ```
 
 ## Key Findings
@@ -80,3 +79,6 @@ taskrabbit-analysis/
 Lauren Chagaris
 www.linkedin.com/in/lchagaris
 datalaur@bu.edu
+
+## License
+Code is MIT licensed. Data, findings, and slides © 2026 Lauren Chagaris. All rights reserved.
