@@ -8,7 +8,7 @@ Analysis of 4 years of personal TaskRabbit earnings data to optimize gig economy
 2. What pricing and client selection strategies maximize gig economy profitability?
 
 ## Project Status
-Currently whipping up a review aggregate and sentiment analysis via Tableau.
+Analysis complete. Review sentiment dashboard, which is a spinoff project, is now built.
 
 ## Data
 - **Time Period:** 2022-2025
@@ -32,8 +32,21 @@ taskrabbit-analysis/
 └── presentations/        # Slide decks
 ```
 
-## Key Findings
-*Coming soon - analysis in progress*
+**Result:** Raising my hourly rate 25% did not reduce client satisfaction. Clients are paying for trust and reliability, not the lowest price.
+
+| Finding | Evidence |
+|---|---|
+| Yield over volume works | +25% hourly rate after shifting from job count to $/hour |
+| Higher rates did not hurt satisfaction | No link between rate and tip % (p = 0.47) |
+| Premium demand is predictable | Category explains 57% of feature importance, location 28%, timing 15% |
+| Best premium categories | Packing, Photography, Computer Help |
+| Best premium windows | NYC weekends (+20%), Boston Mondays and Tuesdays |
+
+**What premium categories share:** they are expertise-driven, trust-dependent, time-sensitive, and costly if done wrong. Clients pay for certainty.
+
+**Product recommendation: "TaskRabbit Select."** A premium tier that matches clients to top-rated Taskers automatically, with pre-screening (parking, pets, schedule, gender preference) instead of browsing profiles and messaging back and forth. Proposed pilot: NYC weekends, top 5% of Taskers, 20 to 30% rate premium, measured on opt-in rate, booking conversion, satisfaction, and revenue per hour against a control group.
+
+📊 [Slide deck](https://data-laur.github.io/taskrabbit-gtm.pdf) · [Tableau dashboard](https://public.tableau.com/app/profile/lauren.chagaris/viz/TaskrabbitAnalysis-SampleFindings/MarketAnalysisDashboard)
 
 ## Contact
 Lauren Chagaris
