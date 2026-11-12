@@ -1,19 +1,28 @@
-# TaskRabbit Earnings Analysis
+# TaskRabbit Earnings Analysis: Yield Over Volume
 
 ## Project Overview
-Analysis of 4 years of personal TaskRabbit earnings data to optimize gig economy performance and provide insights for platform improvement.
+
+I've worked as a Tasker in Boston and NYC since 2018. In late 2023 I changed strategy: fewer jobs, higher rates, and a focus on premium services like photography, computer help, and packing. This project uses 3.5 years of my own transaction data to test whether that shift worked, what it cost, and what it suggests TaskRabbit could build.
+
+The analysis led to a product proposal, **TaskRabbit Select**: a premium tier that matches clients with top-rated Taskers automatically, built around the demand patterns found here.
 
 ## Key Questions
-1. How can TaskRabbit reduce earnings volatility to improve tasker retention?
-2. What pricing and client selection strategies maximize gig economy profitability?
+
+1. Can a Tasker raise rates without losing demand or client satisfaction?
+2. Which categories, locations, and times command premium rates?
+3. What does a shift from volume to value do to earnings stability?
 
 ## Project Status
-Analysis complete. Review sentiment dashboard, which is a spinoff project, is now built.
+
+Analysis complete. A dashboard is built in Tableau, along with a spinoff deployed app, a review sentiment dashboard which incorporates text mining.
 
 ## Data
-- **Time Period:** 2022-2025
-- **Total Transactions:** ~488 (484 are valid)
-- **Markets:** NYC and Boston
+
+- **Source:** My own TaskRabbit transaction and review records
+- **Time period:** April 2022 to November 2025
+- **Transactions:** 488 total, 484 valid after cleaning
+- **Markets:** Boston area and NYC
+- **Strategy shift:** October 2023, used to split the data into before and after
 
 ## Technologies
 - Python (Pandas, NumPy, Scikit-learn)
