@@ -32,15 +32,34 @@ taskrabbit-analysis/
 └── presentations/        # Slide decks
 ```
 
-**Result:** Raising my hourly rate 25% did not reduce client satisfaction. Clients are paying for trust and reliability, not the lowest price.
+## Key Findings
 
-| Finding | Evidence |
-|---|---|
-| Yield over volume works | +25% hourly rate after shifting from job count to $/hour |
-| Higher rates did not hurt satisfaction | No link between rate and tip % (p = 0.47) |
-| Premium demand is predictable | Category explains 57% of feature importance, location 28%, timing 15% |
-| Best premium categories | Packing, Photography, Computer Help |
-| Best premium windows | NYC weekends (+20%), Boston Mondays and Tuesdays |
+**Data:** 484 valid transactions, April 2022 to November 2025, Boston and NYC. Strategy shift in October 2023: fewer, higher-value jobs instead of maximizing volume.
+
+**Result:** I worked less and earned more. My hourly rate rose 25% with no drop in client satisfaction. Clients pay for trust and reliability, not the lowest price.
+
+| Metric | Before (2022 to Q3 2023) | After (Q4 2023 to 2025) | Change |
+|---|---|---|---|
+| Average hourly rate | $56 | $70 | +25% |
+| Jobs per week | 3.7 | 2.7 | -27% |
+| Average weekly earnings | $535 | $561 | +4.8% |
+| Weekly earnings volatility (CV) | 68.8% | 72.7% | +3.9 pts |
+| Average tip | $26.35 | $38.12 | +45% |
+| Median tip % | 20% | 15% | -5 pts |
+
+**Volatility tradeoff:** income became slightly less predictable week to week, because premium jobs are less frequent. I accepted that in exchange for higher earnings per hour worked. Someone who needs steady income would weigh this differently.
+
+**Tip paradox:** tip percentage fell, but tip dollars rose 45%, because the base price was higher. Rates showed no meaningful link to tip % (p = 0.47).
+
+**Where premium demand lives:**
+- Category drives most of it (57% of feature importance), then location (28%) and timing (15%)
+- Photography was the top service in both markets ($112/hr Boston, $89/hr NYC)
+- Boston paid 30% more per hour than NYC overall ($69 vs $53)
+- NYC weekends paid 20% more than NYC weekdays
+
+**Product recommendation: "TaskRabbit Select."** A premium tier that automatically matches clients to top-rated Taskers, with pre-screening (parking, pets, schedule, gender preference) instead of browsing and messaging. Proposed pilot: NYC weekends, top 5% of Taskers, 20 to 30% rate premium, measured against a control group on opt-in, booking conversion, satisfaction, and revenue per hour.
+
+📊 [Slide deck](https://data-laur.github.io/taskrabbit-gtm.pdf) · [Tableau dashboard](https://public.tableau.com/app/profile/lauren.chagaris/viz/TaskrabbitAnalysis-SampleFindings/MarketAnalysisDashboard)
 
 **What premium categories share:** they are expertise-driven, trust-dependent, time-sensitive, and costly if done wrong. Clients pay for certainty.
 
