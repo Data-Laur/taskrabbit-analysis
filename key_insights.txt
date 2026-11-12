@@ -1,6 +1,6 @@
 
 ================================================================================
-TASKRABBIT BUSINESS ANALYSIS - KEY INSIGHTS FOR INTERVIEWS
+TASKRABBIT BUSINESS ANALYSIS - KEY INSIGHTS
 ================================================================================
 Data-Driven Strategic Optimization Success Story
 Date Range: April 2022 - November 2025 (484 jobs, $84,737 total earnings)
@@ -30,9 +30,9 @@ RESULTS:
 - Percentage Increase: [TO BE CALCULATED]
 
 KEY INSIGHT:
-"I analyzed my earnings data and realized I could earn more by focusing on 
+I analyzed my earnings data and realized I could earn more by focusing on 
 fewer, higher-value jobs rather than maximizing job volume. This required 
-strategic positioning and rate increases."
+strategic positioning and rate increases.
 
 ================================================================================
 3. TIP ANALYSIS - THE COUNTERINTUITIVE WIN ⭐ INTERVIEW GOLD
@@ -44,10 +44,10 @@ THE PARADOX:
 - Total tips increased: $1,660 → $2,821 (+70%)
 
 WHY THIS MATTERS:
-"This demonstrates understanding of absolute vs relative metrics. While clients
+This demonstrates understanding of absolute vs relative metrics. While clients
 tipped a lower percentage after I raised rates, the higher base meant I earned
 significantly more in absolute dollars. A $200 job with 15% tip ($30) beats a
-$100 job with 20% tip ($20)."
+$100 job with 20% tip ($20).
 
 THE BUSINESS LESSON:
 - Premium positioning changes client expectations
@@ -93,8 +93,8 @@ TIP FREQUENCY BY CATEGORY:
 [TO BE FILLED WITH SPECIFIC DATA]
 
 STRATEGIC FOCUS:
-"I identified which services commanded premium rates and had highest tip 
-frequency, then specialized in those areas while maintaining flexibility."
+I identified which services commanded premium rates and had highest tip 
+frequency, then specialized in those areas while maintaining flexibility.
 
 ================================================================================
 6. DATA SCIENCE SKILLS DEMONSTRATED
@@ -130,19 +130,19 @@ analyzing three years of transaction data, I discovered I could earn
 significantly more by focusing on quality over quantity."
 
 ON THE TIP INSIGHT:
-"One counterintuitive finding was that while tip percentages decreased after I 
+One counterintuitive finding was that while tip percentages decreased after I 
 raised my rates, my average tip in dollars increased by 45%. This taught me 
-the importance of looking at absolute metrics, not just relative ones."
+the importance of looking at absolute metrics, not just relative ones.
 
 ON STRATEGIC THINKING:
-"The data revealed a clear inflection point in Q4 2023 where I successfully 
+The data revealed a clear inflection point in Q4 2023 where I successfully 
 shifted from high-volume to high-value work. This required strategic 
-positioning and rate optimization, validated by measurable results."
+positioning and rate optimization, validated by measurable results.
 
 ON ANALYTICAL RIGOR:
-"I treated my freelance work as a data science project - cleaning messy 
+I treated my freelance work as a data science project - cleaning messy 
 transaction data, performing time series analysis, and creating visualizations 
-to communicate insights clearly."
+to communicate insights clearly.
 
 ================================================================================
 8. VISUALIZATIONS CREATED (FOR PORTFOLIO)
@@ -176,14 +176,14 @@ TIME-BASED PATTERNS:
 9. RESULTS SUMMARY - THE ELEVATOR PITCH
 ================================================================================
 
-"I analyzed 3.5 years and 484 transactions from my TaskRabbit business, 
+I analyzed 3.5 years and 484 transactions from my TaskRabbit business, 
 totaling over $84,000 in earnings. Using Python and data visualization, I 
 identified that I could optimize profitability by shifting from high-volume to 
 high-value work. After implementing this strategy in Q4 2023, my hourly rate 
 increased by [X]%, and interestingly, while tip percentages decreased, 
 absolute tip dollars increased by 45%. This project demonstrates my ability to 
 extract insights from real-world data and translate them into measurable 
-business results."
+business results.
 
 ================================================================================
 10. PORTFOLIO PRESENTATION TIPS
@@ -259,7 +259,7 @@ a 20% premium, allowing me to optimize my schedule strategically."
 
 
 ================================================================================
-12. VOLATILITY ANALYSIS - STRATEGIC TRADEOFF ⭐ INTERVIEW GOLD
+12. VOLATILITY ANALYSIS - STRATEGIC TRADEOFF ⭐ THIS IS GOLD
 ================================================================================
 
 THE PARADOX:
